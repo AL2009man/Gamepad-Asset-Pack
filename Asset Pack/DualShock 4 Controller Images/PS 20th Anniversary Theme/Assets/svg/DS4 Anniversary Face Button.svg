@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="115.45688mm"
+   height="102.6252mm"
+   viewBox="0 0 115.45689 102.6252"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="DS4 Anniversary Face Button.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient851"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#3e3e40;stop-opacity:1;"
+         offset="0"
+         id="stop849" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3385"
+       x="-0.05461454"
+       y="-0.060562149"
+       width="1.1093599"
+       height="1.1595778">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3375" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3377" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.3"
+         result="blur"
+         id="feGaussianBlur3379" />
+      <feOffset
+         dx="0"
+         dy="1.2"
+         result="offset"
+         id="feOffset3381" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3383" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3397"
+       x="-0.05461454"
+       y="-0.060562149"
+       width="1.1093599"
+       height="1.1595778">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3387" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3389" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.3"
+         result="blur"
+         id="feGaussianBlur3391" />
+      <feOffset
+         dx="0"
+         dy="1.2"
+         result="offset"
+         id="feOffset3393" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3395" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3409"
+       x="-0.05461454"
+       y="-0.060562149"
+       width="1.1093599"
+       height="1.1595778">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3399" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3401" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.3"
+         result="blur"
+         id="feGaussianBlur3403" />
+      <feOffset
+         dx="0"
+         dy="1.2"
+         result="offset"
+         id="feOffset3405" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3407" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3421"
+       x="-0.05461454"
+       y="-0.060562149"
+       width="1.1093599"
+       height="1.1595778">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3411" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3413" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.3"
+         result="blur"
+         id="feGaussianBlur3415" />
+      <feOffset
+         dx="0"
+         dy="1.2"
+         result="offset"
+         id="feOffset3417" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3419" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter969"
+       x="-0.047710171"
+       y="-0.052924173"
+       width="1.0955511"
+       height="1.1220246">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood959" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite961" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur963" />
+      <feOffset
+         dx="0"
+         dy="0.5"
+         result="offset"
+         id="feOffset965" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite967" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter981"
+       x="-0.047710171"
+       y="-0.052924173"
+       width="1.0955511"
+       height="1.1220246">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood971" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite973" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur975" />
+      <feOffset
+         dx="0"
+         dy="0.5"
+         result="offset"
+         id="feOffset977" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite979" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter993"
+       x="-0.047710171"
+       y="-0.052924173"
+       width="1.0955511"
+       height="1.1220246">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood983" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite985" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur987" />
+      <feOffset
+         dx="0"
+         dy="0.5"
+         result="offset"
+         id="feOffset989" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite991" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1005"
+       x="-0.047710171"
+       y="-0.052924173"
+       width="1.0955511"
+       height="1.1220246">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood995" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite997" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur999" />
+      <feOffset
+         dx="0"
+         dy="0.5"
+         result="offset"
+         id="feOffset1001" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1003" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4099822"
+     inkscape:cx="203.19405"
+     inkscape:cy="192.91024"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g8433"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="display:none;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0969845;stroke-opacity:1"
+     id="rect5452"
+     width="140.35818"
+     height="118.33581"
+     x="-11.498124"
+     y="-10.743442"
+     inkscape:label="Background" />
+  <g
+     id="g8433"
+     style="display:inline;opacity:1"
+     inkscape:label="Anniversary Buttons"
+     transform="translate(0.47999722,0.48)">
+    <g
+       inkscape:label="DS4 Cross Button"
+       id="layer1"
+       transform="translate(-139.13457,-86.93638)"
+       style="display:inline"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\DualShock 4 Controller Images\VSCView Image Assets\PlayStation 20th Anniversary Assets\DS4_Anniversary_Cross_Button.png"
+       inkscape:export-xdpi="67.738808"
+       inkscape:export-ydpi="67.738808">
+      <path
+         style="fill:#90b4da;fill-opacity:1;stroke:#ffffff;stroke-width:2.36596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1005)"
+         d="m 190.23245,186.0155 c -12.08502,-3.94545 -15.49074,-17.97444 -6.35708,-26.18639 3.49253,-3.14007 6.87581,-4.34074 12.23153,-4.34074 5.35574,0 8.73902,1.20067 12.23154,4.34074 3.50664,3.15277 5.10364,6.6785 5.10364,11.26732 0,2.98082 -0.23549,4.09103 -1.34847,6.35749 -3.68366,7.50135 -13.42412,11.31606 -21.86116,8.56158 z"
+         id="path847"
+         sodipodi:nodetypes="sssssss"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\VSCView - DS4 Layout image update\VSCView - DualShock 4 Updated Default Layout (Ver. 1.01)\DualShock 4 Controller Images\VSCView Image Assets\DualShock 4 Assets\DS4_Face_Button.png"
+         inkscape:export-xdpi="95.886261"
+         inkscape:export-ydpi="95.886261"
+         inkscape:label="Active Button Press" />
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.89877"
+         d="m 205.96948,165.71481 -1.90619,-1.62434 -7.82499,7.43188 -7.81015,-7.43188 -1.91359,1.62434 7.91399,7.5283 -7.91399,7.52832 1.91359,1.62434 7.81015,-7.4319 7.82499,7.4319 1.90619,-1.62434 -7.92141,-7.52832 z m 0,0"
+         id="path1049-8"
+         inkscape:label="Symbol" />
+    </g>
+    <g
+       inkscape:label="DS4 Circle Button"
+       id="g5619"
+       transform="translate(-100.12818,-120.29842)"
+       style="display:inline;opacity:1"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\DualShock 4 Controller Images\VSCView Image Assets\PlayStation 20th Anniversary Assets\DS4_Anniversary_Circle_Button.png"
+       inkscape:export-xdpi="67.738808"
+       inkscape:export-ydpi="67.738808">
+      <path
+         style="display:inline;opacity:1;fill:#ee7679;fill-opacity:1;stroke:#ffffff;stroke-width:2.36596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter993)"
+         d="m 190.23245,186.0155 c -12.08502,-3.94545 -15.49074,-17.97444 -6.35708,-26.18639 3.49253,-3.14007 6.87581,-4.34074 12.23153,-4.34074 5.35574,0 8.73902,1.20067 12.23154,4.34074 3.50664,3.15277 5.10364,6.6785 5.10364,11.26732 0,2.98082 -0.23549,4.09103 -1.34847,6.35749 -3.68366,7.50135 -13.42412,11.31606 -21.86116,8.56158 z"
+         id="path5615"
+         sodipodi:nodetypes="sssssss"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\VSCView - DS4 Layout image update\VSCView - DualShock 4 Updated Default Layout (Ver. 1.01)\DualShock 4 Controller Images\VSCView Image Assets\DualShock 4 Assets\DS4_Face_Button.png"
+         inkscape:export-xdpi="95.886261"
+         inkscape:export-ydpi="95.886261"
+         inkscape:label="Active Button Press" />
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.89877"
+         d="m 186.75179,173.68087 c 0,-4.6579 4.22029,-8.44803 9.38999,-8.44803 5.17709,0 9.3974,3.79013 9.3974,8.44803 0,4.66532 -4.22031,8.45545 -9.3974,8.45545 -5.1697,0 -9.38999,-3.79013 -9.38999,-8.45545 m -2.63305,0 c 0,5.97072 5.39961,10.82148 12.02304,10.82148 6.63085,0 12.02303,-4.85076 12.02303,-10.82148 0,-5.9633 -5.39218,-10.81406 -12.02303,-10.81406 -6.62343,0 -12.02304,4.85076 -12.02304,10.81406"
+         id="path1047-1"
+         inkscape:label="Symbol" />
+    </g>
+    <g
+       inkscape:label="DS4 Triangle Button"
+       id="g6325"
+       transform="translate(-139.13457,-154.30539)"
+       style="display:inline;opacity:1"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\DualShock 4 Controller Images\VSCView Image Assets\PlayStation 20th Anniversary Assets\DS4_Anniversary_Triangle_Button.png"
+       inkscape:export-xdpi="67.738808"
+       inkscape:export-ydpi="67.738808">
+      <path
+         style="display:inline;opacity:1;fill:#27c8cc;fill-opacity:1;stroke:#ffffff;stroke-width:2.36596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter981)"
+         d="m 190.23245,186.0155 c -12.08502,-3.94545 -15.49074,-17.97444 -6.35708,-26.18639 3.49253,-3.14007 6.87581,-4.34074 12.23153,-4.34074 5.35574,0 8.73902,1.20067 12.23154,4.34074 3.50664,3.15277 5.10364,6.6785 5.10364,11.26732 0,2.98082 -0.23549,4.09103 -1.34847,6.35749 -3.68366,7.50135 -13.42412,11.31606 -21.86116,8.56158 z"
+         id="path6321"
+         sodipodi:nodetypes="sssssss"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\VSCView - DS4 Layout image update\VSCView - DualShock 4 Updated Default Layout (Ver. 1.01)\DualShock 4 Controller Images\VSCView Image Assets\DualShock 4 Assets\DS4_Face_Button.png"
+         inkscape:export-xdpi="95.886261"
+         inkscape:export-ydpi="95.886261"
+         inkscape:label="Active Button Press" />
+      <path
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.89877"
+         d="m 195.67462,166.01142 c 1.61691,2.16579 6.76435,9.02656 8.448,11.27392 h -16.362 c 1.55758,-2.2177 6.37125,-9.07847 7.914,-11.27392 m -12.43842,13.40263 h 25.574 l -13.21717,-17.60809 z m 0,0"
+         id="path1043-4"
+         inkscape:label="Symbol" />
+    </g>
+    <g
+       inkscape:label="DS4 Square Button"
+       id="g7261"
+       transform="translate(-177.50305,-120.55784)"
+       style="display:inline;opacity:1"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\DualShock 4 Controller Images\VSCView Image Assets\PlayStation 20th Anniversary Assets\DS4_Anniversary_Square_Button.png"
+       inkscape:export-xdpi="67.738808"
+       inkscape:export-ydpi="67.738808">
+      <path
+         style="display:inline;opacity:1;fill:#cb9fc8;fill-opacity:1;stroke:#ffffff;stroke-width:2.36596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter969)"
+         d="m 190.23245,186.0155 c -12.08502,-3.94545 -15.49074,-17.97444 -6.35708,-26.18639 3.49253,-3.14007 6.87581,-4.34074 12.23153,-4.34074 5.35574,0 8.73902,1.20067 12.23154,4.34074 3.50664,3.15277 5.10364,6.6785 5.10364,11.26732 0,2.98082 -0.23549,4.09103 -1.34847,6.35749 -3.68366,7.50135 -13.42412,11.31606 -21.86116,8.56158 z"
+         id="path7257"
+         sodipodi:nodetypes="sssssss"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\VSCView - DS4 Layout image update\VSCView - DualShock 4 Updated Default Layout (Ver. 1.01)\DualShock 4 Controller Images\VSCView Image Assets\DualShock 4 Assets\DS4_Face_Button.png"
+         inkscape:export-xdpi="95.886261"
+         inkscape:export-ydpi="95.886261"
+         inkscape:label="Active Button Press" />
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.89877"
+         d="m 203.07689,179.82943 h -14.94535 v -12.77959 h 14.94535 z m -17.57841,2.24737 h 20.21147 v -17.28174 h -20.21147 z m 0,0"
+         id="path1045-3"
+         inkscape:label="Symbol" />
+    </g>
+  </g>
+</svg>

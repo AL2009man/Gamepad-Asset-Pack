@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="245.60593mm"
+   height="189.56204mm"
+   viewBox="0 0 245.60593 189.56204"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="PlayStation 20th Anniversary Icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="440.52753"
+     inkscape:cy="390.32294"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="style41121">
+
+      .cls-2 {
+        fill: #ffffff;
+      }
+    </style>
+  </defs>
+  <g
+     inkscape:label="Anniversary Logo"
+     id="layer1-8"
+     transform="translate(41.160145,-38.266598)"
+     style="display:inline;fill:#a05a2c">
+    <path
+       style="display:inline;fill:#de0029;fill-opacity:1;fill-rule:evenodd;stroke-width:1.24043"
+       d="M 106.59357,143.90923 V 84.675297 c 0,-6.956571 -1.28308,-13.360816 -7.810093,-15.173908 -4.99845,-1.601044 -8.10017,3.040386 -8.10017,9.991321 V 227.82864 L 50.678916,215.13163 V 38.266598 c 17.009261,3.157543 41.789541,10.621757 55.111334,15.112544 33.87907,11.631459 45.36546,26.108047 45.36546,58.726288 0,31.79264 -19.62564,43.84248 -44.56214,31.8038 z"
+       id="path977"
+       inkscape:label="P Letter - Red" />
+    <path
+       id="path77100"
+       style="display:inline;fill:#f3c202;fill-opacity:1;fill-rule:evenodd;stroke-width:4.68824"
+       inkscape:label="S Letter - Yellow"
+       d="m -1219.0527,287.7207 c -17.2188,7.19332 -38.7042,17.39497 -54.5645,29.14649 -33.3769,24.75352 -21.1897,67.72317 52.0371,88.34375 78.5613,25.89192 158.2825,30.99466 233.13283,18.76562 4.89164,-0.82216 10.18372,-1.66636 14.92774,-2.50976 v -57.13868 l -31.83207,-9.93164 -42.998,15.60352 c -27.5998,9.90973 -68.1652,11.99739 -90.5781,4.66016 -22.3919,-7.33762 -18.1553,-21.33792 9.4023,-31.22657 l 41.4707,-14.84179 z m 454.77731,141.89844 v 72.28516 l 107.70898,-38.6875 z"
+       transform="matrix(0.26458333,0,0,0.26458333,300.48497,92.332808)" />
+    <path
+       id="path73835"
+       style="display:inline;fill:#00aa9e;fill-opacity:1;fill-rule:evenodd;stroke-width:4.68824"
+       inkscape:label="S Letter - Green"
+       d="m -1025.418,218.17383 -164.8945,58.63281 c 0,0 -12.4701,4.11703 -28.7402,10.91406 l 130.998,40.8711 114.53517,-40.99024 v -54.94922 z m 261.14261,72.8457 v 67.23633 l 106.53125,-37.52148 z m -209.24414,51.82422 -31.83207,11.55273 31.83207,9.93164 z m 403.4082,2.33594 -194.16406,69.18164 v 15.25781 l 107.70898,33.59766 222.76172,-80.01563 z"
+       transform="matrix(0.26458333,0,0,0.26458333,300.48497,92.332808)" />
+    <path
+       id="path5644"
+       style="display:inline;fill:#326db3;fill-opacity:1;fill-rule:evenodd;stroke-width:4.68824"
+       inkscape:label="S Letter - Blue"
+       d="m -973.51953,199.7207 -51.89847,18.45313 51.89847,14.47851 z m 382.91406,38.1211 c -17.80766,-0.1279 -35.19248,0.71604 -51.6543,2.52929 -65.84722,7.29529 -112.67578,23.86914 -112.67578,23.86914 l -9.33984,3.16211 v 23.61719 l 106.53125,29.71485 55.52344,-19.55469 c 27.62082,-9.93079 68.16674,-12.04008 90.55859,-4.68164 22.43403,7.33746 18.19739,21.31831 -9.40234,31.20703 l -49.04688,17.47461 136.30664,38.02148 c 10.31545,-4.12856 47.291,-19.92734 62.56641,-39.19922 18.11165,-22.87665 10.07921,-56.10509 -61.25,-78.64453 -47.47204,-17.996 -104.6942,-27.13192 -158.11719,-27.51562 z"
+       transform="matrix(0.26458333,0,0,0.26458333,300.48497,92.332808)" />
+  </g>
+</svg>

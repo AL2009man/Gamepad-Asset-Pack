@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="28.974615mm"
+   height="18.503172mm"
+   viewBox="0 0 28.974614 18.503172"
+   version="1.1"
+   id="svg841"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Anniversary Option-Share Button.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs835">
+    <linearGradient
+       id="linearGradient1435"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#3e3e40;stop-opacity:1;"
+         offset="0"
+         id="stop1433" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1553"
+       x="-0.11367245"
+       y="-0.068167634"
+       width="1.227221"
+       height="1.1678865">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1543" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1545" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur1547" />
+      <feOffset
+         dx="0"
+         dy="0.5"
+         result="offset"
+         id="feOffset1549" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1551" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1565"
+       x="-0.11367245"
+       y="-0.068167634"
+       width="1.227221"
+       height="1.1678865">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1555" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1557" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur1559" />
+      <feOffset
+         dx="0"
+         dy="0.5"
+         result="offset"
+         id="feOffset1561" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1563" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter949"
+       x="-0.11367245"
+       y="-0.068167634"
+       width="1.227221"
+       height="1.1678865">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood939" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite941" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur943" />
+      <feOffset
+         dx="0"
+         dy="0.5"
+         result="offset"
+         id="feOffset945" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite947" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter961"
+       x="-0.11367245"
+       y="-0.068167634"
+       width="1.227221"
+       height="1.1678865">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood951" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite953" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur955" />
+      <feOffset
+         dx="0"
+         dy="0.5"
+         result="offset"
+         id="feOffset957" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite959" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.1320989"
+     inkscape:cx="49.81981"
+     inkscape:cy="28.375276"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g975"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata838">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Share Button"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-100.00331,-139.14917)">
+    <image
+       width="9.5249996"
+       height="15.875"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 "
+       id="image1414"
+       x="101.07083"
+       y="140.22917"
+       style="display:none"
+       inkscape:label="Image" />
+    <path
+       style="fill:#cb9fc8;fill-opacity:1;stroke:#f7f7ff;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter949)"
+       d="m 103.81007,155.43971 c -1.11367,-0.55497 -1.45219,-0.90707 -2.05425,-2.13664 -0.70606,-1.44196 -0.71913,-1.55775 -0.63678,-5.64314 0.0826,-4.0968 0.0975,-4.19038 0.84122,-5.2624 0.83527,-1.20405 2.52165,-2.16836 3.792,-2.16836 1.82752,0 3.6218,1.32822 4.42208,3.27346 0.31572,0.7674 0.42149,1.94046 0.42149,4.67442 0,4.95018 -0.6411,6.41999 -3.27346,7.50488 -1.3907,0.57317 -1.95397,0.53432 -3.5123,-0.24222 z"
+       id="path1431"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\DualShock 4 Controller Images\VSCView Image Assets\PlayStation 20th Anniversary Assets\DS4_Anniversary_Share_Button.png"
+       inkscape:export-xdpi="125.66599"
+       inkscape:export-ydpi="125.66599"
+       inkscape:label="Active Button Press" />
+  </g>
+  <g
+     inkscape:label="Options Button"
+     inkscape:groupmode="layer"
+     id="g975"
+     transform="translate(-100.00331,-139.14917)">
+    <image
+       width="9.5249996"
+       height="15.875"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 "
+       id="image971"
+       x="101.07083"
+       y="140.22917"
+       style="display:none"
+       inkscape:label="Image" />
+    <path
+       style="fill:#27c8cc;fill-opacity:1;stroke:#f7f7ff;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter961)"
+       d="m 121.11216,155.43971 c -1.11367,-0.55497 -1.45219,-0.90707 -2.05425,-2.13664 -0.70606,-1.44196 -0.71913,-1.55775 -0.63678,-5.64314 0.0826,-4.0968 0.0975,-4.19038 0.84122,-5.2624 0.83527,-1.20405 2.52165,-2.16836 3.792,-2.16836 1.82752,0 3.6218,1.32822 4.42208,3.27346 0.31572,0.7674 0.42149,1.94046 0.42149,4.67442 0,4.95018 -0.6411,6.41999 -3.27346,7.50488 -1.3907,0.57317 -1.95397,0.53432 -3.5123,-0.24222 z"
+       id="path973"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\DualShock 4 Controller Images\VSCView Image Assets\PlayStation 20th Anniversary Assets\DS4_Anniversary_Options_Button.png"
+       inkscape:export-xdpi="125.66599"
+       inkscape:export-ydpi="125.66599"
+       inkscape:label="Active Button Press" />
+  </g>
+</svg>

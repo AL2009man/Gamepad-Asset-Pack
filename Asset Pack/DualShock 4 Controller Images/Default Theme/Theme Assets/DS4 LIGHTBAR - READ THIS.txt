@@ -1,0 +1,8 @@
+Currently, the Lightbar is baked into the DS4 V2 Images as there isn't a dedicated LED system to VSCView (as of this writting.). In case Nielk1 (or the contributers) plans to add LED/Lightbar Support in a future release, here's the Y and X Axis Cordinates for DualShock 4's Lightbars. 
+
+I hope it'd saves you a lot of time:
+
+Rear Lightbar: 0 , -197
+(DS4 V2 Models only) Front Lightbar: 0 , -108
+
+-AL2009man

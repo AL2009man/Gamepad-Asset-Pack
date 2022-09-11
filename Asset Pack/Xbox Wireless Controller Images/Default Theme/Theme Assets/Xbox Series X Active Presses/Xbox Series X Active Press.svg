@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="290.36658mm"
+   height="295.33203mm"
+   viewBox="0 0 290.36659 295.33204"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Xbox Series X Active Press.svg"
+   inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\SVG\Xbox Series X Active Press.png"
+   inkscape:export-xdpi="134.69351"
+   inkscape:export-ydpi="134.69351"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="446"
+     inkscape:cy="482"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect10545"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1009"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1345"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1341"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect14156"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect14160"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect14164"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     id="layer1"
+     transform="translate(-143.05363,44.200927)"
+     inkscape:groupmode="layer">
+    <rect
+       style="display:none;fill:#1a1a1a;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00542;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect877"
+       width="403.04599"
+       height="523.91791"
+       x="95.540909"
+       y="-196.86877"
+       sodipodi:insensitive="true" />
+    <g
+       id="g9941"
+       inkscape:label="D-PAD"
+       style="display:inline;stroke-width:1.6;stroke-miterlimit:5.5;stroke-dasharray:none">
+      <path
+         id="path19817-2"
+         style="color:#000000;display:inline;opacity:1;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="Left D-PAD"
+         d="m 175.87894,160.17584 c -0.39809,-5.1e-4 -0.5929,0.082 -0.72805,0.1368 -0.13515,0.0543 -0.22559,0.10293 -0.31492,0.15877 -0.17868,0.11168 -0.33245,0.23667 -0.47932,0.36349 -0.2937,0.25439 -0.53488,0.51121 -0.61275,0.598 -2.25345,2.54971 -2.61774,4.78955 -2.63146,7.43826 -5e-5,0.003 -5e-5,0.004 0,0.008 0.0145,2.66647 1.14685,5.31063 3.35952,7.83204 0.27819,0.31606 0.94866,0.47752 1.63862,0.47684 0.0109,1.1e-4 0.0221,1.1e-4 0.0329,0 l 17.06483,-0.65934 -5e-5,-16.51008 z"
+         sodipodi:nodetypes="ccsccsccccccc"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_D-PAD_Left.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+      <path
+         id="path4146"
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="Up D-PAD"
+         d="m 202.2273,142.9547 c -3.0756,0.007 -6.12647,1.06837 -9.02615,3.12744 -0.28161,0.20279 -0.51851,0.80961 -0.51938,1.56591 -2.2e-4,0.0161 -2.2e-4,0.0341 0,0.0515 l 0.52649,12.31907 18.2547,0.1602 0.31687,-12.51105 c 0.003,-0.0161 0.006,-0.0352 0.008,-0.0527 9e-4,-0.76423 -0.2414,-1.36257 -0.52635,-1.56371 -2.9023,-2.05084 -5.9577,-3.09263 -9.03361,-3.09453 z"
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_D-PAD_Up.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+      <path
+         id="path4333"
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="Right D-PAD"
+         d="m 228.67141,159.99544 c -0.25726,0.008 -14.59593,0.18218 -17.20845,0.18338 l -2e-5,16.43358 16.72831,0.17756 c 0.006,4e-5 0.009,4e-5 0.0155,0 0.66695,5e-4 1.33254,-0.15882 1.60154,-0.47058 2.14021,-2.48587 3.23716,-5.09218 3.24953,-7.72121 6e-5,-0.003 6e-5,-0.004 0,-0.008 4e-4,-2.6446 -1.08211,-5.76385 -3.24953,-8.28139 -0.0901,-0.10437 -0.31932,-0.21754 -0.56069,-0.26878 -0.24138,-0.0513 -0.43766,-0.0486 -0.57619,-0.0448 z"
+         sodipodi:nodetypes="scccccsccsss"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_D-PAD_Right.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+      <path
+         id="path4440"
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="Down D-PAD"
+         d="m 193.20831,176.5287 0.0677,15.89431 c 9.2e-4,0.37887 0.24483,0.68157 0.53403,0.78323 0.003,6e-5 0.005,6e-5 0.008,0 2.96178,1.02644 5.35736,1.5603 8.5169,1.56702 3.16113,-0.009 5.56793,-0.53932 8.53124,-1.56702 4e-5,-0.004 4e-5,-0.004 0,-0.009 0.2893,-0.10162 0.53268,-0.39596 0.53356,-0.775 l 0.0632,-15.80984 z"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_D-PAD_Down.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+      <path
+         id="path19817-2-5"
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="Center D-PAD"
+         d="m 211.46294,176.6124 2e-5,-16.43358 -18.2547,-0.1602 5e-5,16.51008 z"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_D-PAD_Center.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+    </g>
+    <g
+       id="g9945"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_LeftBumper.png"
+       inkscape:export-xdpi="68.423401"
+       inkscape:export-ydpi="68.423401"
+       style="stroke-width:1.6;stroke-miterlimit:5.5;stroke-dasharray:none">
+      <path
+         style="display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:square;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 276.70146,74.391803 c -2.87462,0.0245 -4.62452,0.07774 -5.68187,0.14259 -1.05733,0.06485 -1.51265,0.162128 -1.95395,0.379582 -0.44132,0.217474 -0.88641,0.5334 -1.30553,0.836852 -0.41916,0.303452 -0.83868,0.61894 -1.6043,1.298545 -0.76558,0.679608 -1.87077,1.713701 -3.03477,2.609385 -1.16401,0.895684 -2.40364,1.664815 -3.46467,2.151131 -1.06098,0.486306 -1.9394,0.698762 -3.1006,0.827018 -0.64664,0.07143 -2.44811,0.110194 -6.76936,0.13669 v 0.724254 0.231584 5.04e-4 7.411692 0.955839 4.36274 0.256663 0.70016 c 0.47701,0.0026 4.45762,0.0035 4.81594,0.0059 1.82497,0.01236 4.11258,0.02099 5.69987,0.0246 1.58729,0.0036 2.47372,0.002 3.27953,0.0044 0.80579,0.0025 1.53017,0.009 2.69182,0.03294 1.16166,0.02399 2.75942,0.06548 4.24828,0.11112 1.48887,0.04564 2.87026,0.09547 4.01021,0.139149 1.13999,0.04368 2.03933,0.08104 3.38548,0.132264 1.34615,0.05123 3.13637,0.116255 4.73985,0.183891 1.60348,0.06764 3.02199,0.137885 4.17166,0.201098 1.14972,0.06321 2.02465,0.118757 3.16849,0.220769 1.14382,0.102012 2.55773,0.25081 4.65963,0.490211 2.10191,0.239401 4.89077,0.569316 7.22292,0.857995 1.86197,0.230481 3.29686,0.422701 4.72445,0.614611 5.81027,0.92152 11.63545,1.8012 17.50988,2.45794 1.54771,0.21957 3.32309,0.47342 4.6581,0.66427 1.52805,0.21845 2.45502,0.3505 3.38032,0.4676 0.92532,0.11709 1.84091,0.21805 2.81162,0.33877 0.97073,0.12071 2.01213,0.26355 3.05845,0.3545 1.04627,0.0909 4.43905,0.23208 4.43905,0.23208 0,0 -0.81108,-4.13973 -0.95383,-4.59137 -0.14277,-0.45165 -0.46159,-1.437964 -1.65674,-3.281524 -1.19517,-1.843576 -3.26059,-4.56444 -4.836,-6.420452 -1.57546,-1.856019 -2.66427,-2.841603 -3.79786,-3.757964 -1.13358,-0.916367 -2.32746,-1.779876 -3.23532,-2.407793 -0.90789,-0.62792 -1.54548,-1.0296 -2.51648,-1.568973 -0.97102,-0.539379 -2.28338,-1.222519 -3.61122,-1.855136 -1.32781,-0.632619 -2.67536,-1.216768 -4.08628,-1.685993 -1.41091,-0.469228 -2.86818,-0.81773 -4.77739,-1.231186 -1.90926,-0.413457 -4.28519,-0.894786 -6.66605,-1.298054 -2.3808,-0.403271 -4.75728,-0.727127 -6.63929,-0.963215 -1.88201,-0.23609 -4.97912,-0.643807 -6.42641,-0.828494 -1.4473,-0.184684 -4.7901,-0.518433 -7.27229,-0.572322 -2.48219,-0.05389 -6.41072,-0.121355 -9.28534,-0.09686 z"
+         id="rect35488-7"
+         inkscape:label="Right Bumper"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_RightBumper_Active.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+      <path
+         style="display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:square;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 211.12102,74.52452 c -2.45358,-0.01045 -6.63429,0.01727 -9.62967,0.09761 -2.99537,0.08032 -4.80449,0.213831 -7.07019,0.421628 -2.26571,0.207797 -5.00116,0.490259 -7.21635,0.784295 -2.21517,0.29404 -10.37731,1.694838 -12.22505,2.033826 -1.84772,0.338991 -2.96055,0.619061 -3.93737,0.880414 -0.97682,0.261358 -1.6424,0.505443 -2.52053,0.847221 -0.87812,0.341782 -2.17225,0.791832 -3.36611,1.336231 -1.19385,0.544401 -2.46194,1.183649 -3.97226,2.058101 -1.51033,0.87445 -3.25777,1.979575 -4.47072,2.851316 -1.21304,0.871746 -1.89272,1.518171 -3.1451,2.81911 -1.25244,1.300942 -3.11457,3.289431 -4.66715,5.187368 -1.55257,1.897937 -2.77889,3.684862 -3.45024,4.741463 -0.67141,1.056587 -0.82934,1.498447 -0.89279,2.021437 -0.0635,0.52294 -0.59232,4.72411 -0.59232,4.72411 0,0 2.13794,-0.0829 3.19484,-0.11792 1.05691,-0.035 3.44133,-0.2412 4.20201,-0.33244 0.76068,-0.0912 1.59893,-0.21154 3.27639,-0.46424 1.67746,-0.2527 4.19685,-0.63835 6.69226,-1.0231 2.49539,-0.38475 4.96621,-0.76821 7.04557,-1.09594 2.07936,-0.32773 3.76436,-0.59888 5.61379,-0.87299 1.84947,-0.2741 3.86744,-0.55195 5.66817,-0.79024 1.80073,-0.23828 3.38426,-0.43726 4.75126,-0.60742 1.36697,-0.170157 2.51158,-0.310831 3.78917,-0.440452 1.27757,-0.129617 2.6942,-0.24872 4.00971,-0.361677 1.31554,-0.112955 2.52336,-0.21939 4.35999,-0.358708 1.83661,-0.139312 4.30189,-0.311417 6.8266,-0.456806 2.52468,-0.14539 5.11214,-0.263858 7.15174,-0.349786 2.03959,-0.08593 3.52845,-0.139227 4.98972,-0.172913 1.46124,-0.03368 2.89806,-0.04779 5.183,-0.07382 1.27707,-0.01455 10.43649,-0.03227 15.41733,-0.05004 v -0.662419 -0.30173 -4.453602 -0.964642 -7.445628 -0.354249 -0.608907 c -1.50916,-0.0054 -5.13742,-0.0053 -6.02557,-0.01337 -1.39266,-0.01261 -2.12977,-0.02938 -2.52511,-0.05004 -0.39542,-0.02064 -0.37261,-0.025 -0.4554,-0.054 -0.33112,-0.116021 -0.81648,-0.351435 -1.19332,-0.54351 -0.37682,-0.192073 -0.57338,-0.290409 -1.40769,-1.002794 -0.83431,-0.712364 -2.2606,-2.015438 -3.31999,-2.972203 -1.05937,-0.95677 -1.75914,-1.575858 -2.41176,-2.033826 -0.65267,-0.457992 -1.23989,-0.735235 -1.82922,-0.975046 -0.58933,-0.239816 -1.22656,-0.462927 -1.93072,-0.601477 -0.70429,-0.138557 -1.46333,-0.187725 -3.91692,-0.198177 z"
+         id="path2035"
+         inkscape:label="Left Bumper"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_LeftBumper_Active.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+    </g>
+    <g
+       id="g3573"
+       style="display:none">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.4;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3135"
+         width="46.567043"
+         height="0.85940284"
+         x="314.17505"
+         y="-13.288583"
+         transform="rotate(42.021498)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.4;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3569"
+         width="46.567043"
+         height="0.85940284"
+         x="-76.417763"
+         y="-333.92694"
+         transform="rotate(138.89183)" />
+    </g>
+    <g
+       id="g9300"
+       style="display:inline;stroke-width:6.04724;stroke-miterlimit:5.5;stroke-dasharray:none"
+       inkscape:label="Face Buttons"
+       transform="matrix(0.26458333,0,0,0.26458333,53.565439,114.02167)">
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:6.04724;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 171.58984,0 c -32.6147,0 -60.72311,24.642944 -62.63476,55.126953 -1.91166,30.484009 23.106,55.124997 55.7207,55.124997 3.20395,0 6.36257,-0.24729 9.45899,-0.70507 27.30657,-2.49819 50.00731,-23.401272 52.57226,-49.173833 0.28352,-1.727419 0.49249,-3.475578 0.60352,-5.246094 C 229.2222,24.642944 204.20454,0 171.58984,0 Z"
+         transform="translate(1025.8909,108.60116)"
+         id="path1034"
+         inkscape:label="Y"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_Y_Button.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:6.04724;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 58.087891,107.80859 c -31.498,0 -57.5583029,24.22129 -58.0800785,54.15625 -0.5217756,29.93497 24.6934065,54.1543 56.1914065,54.1543 31.498,0 57.556351,-24.21933 58.078121,-54.1543 0.52178,-29.93496 -24.691449,-54.15625 -56.189449,-54.15625 z"
+         transform="translate(1025.8909,108.60116)"
+         id="path1034-8"
+         inkscape:label="X"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_X_Button.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:6.04724;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1302.4847,206.14999 c -30.8329,0 -57.3742,23.99264 -59.1778,53.62305 -1.8036,29.6304 21.8175,53.62304 52.6504,53.62304 4.9301,0 9.7481,-0.61968 14.375,-1.77148 17.449,-3.80021 32.1405,-15.54106 39.0859,-30.89258 3.2475,-6.43778 5.2621,-13.52011 5.7149,-20.95898 1.8036,-29.63041 -21.8155,-53.62305 -52.6484,-53.62305 z"
+         id="path1034-2"
+         inkscape:label="B"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_B_Button.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:6.04724;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1192.8186,313.79061 c -30.2032,0 -55.9011,23.68134 -57.3046,52.91602 -0.1814,3.77702 0.059,7.45913 0.6679,11.01172 1.6776,14.93653 11.0695,27.63042 24.6895,34.90039 7.8066,4.44882 16.9672,7.00586 26.8652,7.00586 9.6813,0 18.8943,-2.4434 26.9981,-6.71289 16.351,-8.04635 28.0838,-23.07437 29.7089,-40.48633 0.2995,-1.87914 0.5049,-3.78584 0.5977,-5.71875 1.4036,-29.23468 -22.0195,-52.91602 -52.2227,-52.91602 z"
+         id="path1034-2-7"
+         inkscape:label="A"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_A_Button.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+    </g>
+    <path
+       style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 262.36961,204.66957 c -1.57692,0 -2.98076,0.77275 -3.95184,1.9451 -0.97109,1.17236 -1.54512,2.75308 -1.54512,4.49172 0,1.73864 0.57403,3.31988 1.54512,4.49223 0.97108,1.17236 2.37492,1.9451 3.95184,1.9451 h 13.078 c 1.57691,0 2.98076,-0.77274 3.95184,-1.9451 0.97108,-1.17235 1.54512,-2.75359 1.54512,-4.49223 0,-1.73864 -0.57404,-3.31936 -1.54512,-4.49172 -0.97108,-1.17235 -2.37493,-1.9451 -3.95184,-1.9451 z"
+       id="rect133-7"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_ShareButton.png"
+       inkscape:export-xdpi="134.69351"
+       inkscape:export-ydpi="134.69351" />
+    <ellipse
+       style="display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="ellipse14223"
+       cx="324.96765"
+       cy="-16.51539"
+       rx="27.021999"
+       ry="25.433252"
+       inkscape:label="Analog Stick Left"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_LeftStick_Click.png"
+       inkscape:export-xdpi="134.69351"
+       inkscape:export-ydpi="134.69351" />
+    <ellipse
+       style="display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="ellipse13770"
+       cx="401.97534"
+       cy="-17.477793"
+       rx="27.43"
+       ry="25.923134"
+       inkscape:label="Analog Stick Right"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_RightStick_Click.png"
+       inkscape:export-xdpi="134.69351"
+       inkscape:export-ydpi="134.69351" />
+    <g
+       id="g6227"
+       transform="translate(125.86524,59.66795)"
+       style="stroke-width:1.6;stroke-miterlimit:5.5;stroke-dasharray:none">
+      <path
+         style="color:#000000;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 112.09589,172.21415 c -5.50055,0 -10.01953,4.10369 -10.01953,9.21494 0,5.11125 4.51898,9.21494 10.01953,9.21494 5.50056,0 10.02006,-4.10369 10.02006,-9.21494 0,-5.11125 -4.5195,-9.21494 -10.02006,-9.21494 z"
+         id="path3462"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_ViewButton.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 177.5844,172.23327 c -5.50055,0 -10.02006,4.10369 -10.02006,9.21494 0,5.11124 4.51951,9.21494 10.02006,9.21494 5.50056,0 10.01955,-4.1037 10.01955,-9.21494 0,-5.11125 -4.51899,-9.21494 -10.01955,-9.21494 z"
+         id="ellipse26881"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_MenuButton.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+    </g>
+    <g
+       id="g27175"
+       inkscape:label="Analog Trigger"
+       transform="matrix(0.26458333,0,0,0.26458333,-276.17093,79.6487)"
+       style="display:inline;stroke-width:6.04724;stroke-miterlimit:5.5;stroke-dasharray:none">
+      <path
+         style="color:#000000;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1905.3212,-432.79011 c -3.4949,0.0237 -6.5776,0.20117 -9.4629,0.39258 -2.8853,0.19141 -5.7922,0.40915 -9.0976,1.39648 -3.3056,0.98738 -6.8716,2.6882 -10.7364,4.95508 -3.8648,2.26689 -8.1002,5.1297 -11.3633,8.52735 -3.263,3.39763 -5.3657,7.17804 -7.3984,11.43359 -2.0327,4.25554 -4.0535,9.10659 -6.1035,14.07227 -2.05,4.96566 -4.1354,10.06456 -6.2207,15.1621 -0.017,0.0424 -0.033,0.0854 -0.047,0.1289 l -1.6621,5.02149 c -0.06,0.11941 -0.2268,0.44691 -0.1504,1.10156 0.086,0.73802 0.6685,1.40193 1.0742,1.6582 0.8115,0.51255 1.3634,0.55086 2.4649,0.72852 2.2022,0.35521 6.3055,0.74563 10.4238,1.25586 4.1183,0.51023 8.2587,1.13628 13.6035,1.85156 5.3449,0.71528 11.8525,1.51377 18.3926,2.41211 6.5401,0.89834 13.1294,1.89911 18.6738,2.80469 5.5445,0.90558 10.0424,1.71537 14.7129,2.61719 4.6705,0.90181 9.508,1.89387 13.5762,2.80468 4.0682,0.91082 7.3767,1.74199 10.6621,2.61133 3.2854,0.86935 6.4995,1.76619 9.4297,2.8086 2.9302,1.04242 5.6529,2.25683 8.6035,3.61718 2.9506,1.36037 6.0725,2.84029 9.6484,4.63282 3.576,1.79253 7.5971,3.89499 10.9121,5.88671 3.3152,1.99176 5.9664,3.89153 9.3399,6.48047 3.3735,2.58897 7.4332,5.84199 11.5,9.10157 1.6903,1.35575 3.0234,-2.48829 3.0234,-2.48829 0,0 -8.3611,-14.52745 -12.4336,-21.38671 -4.0724,-6.85927 -9.0706,-15.28749 -14.207,-24.17383 -5.1364,-8.88634 -10.4176,-18.24029 -14.041,-24.84375 -3.6234,-6.60345 -5.5909,-10.46672 -7.2481,-13.22851 -1.6572,-2.76192 -3.0006,-4.35934 -5.0586,-6.64649 -2.0581,-2.28716 -4.9826,-5.45753 -8.0703,-8.12109 -3.0877,-2.66363 -6.2681,-4.74777 -9.4609,-6.41016 -3.1929,-1.66243 -6.3707,-2.89343 -8.8164,-3.70507 -2.4458,-0.81169 -4.2516,-1.22019 -6.3359,-1.51758 -2.0845,-0.29741 -4.5064,-0.50339 -7.6387,-0.66992 -3.1324,-0.16654 -6.9934,-0.29518 -10.4883,-0.27149 z"
+         id="path27130"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_RightTrigger_Active.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1718.0638,-431.40447 c -3.4949,-0.0237 -7.3578,0.10495 -10.4902,0.27149 -3.1324,0.16653 -5.5523,0.37251 -7.6367,0.66992 -2.0844,0.29739 -3.8902,0.70589 -6.336,1.51758 -2.4456,0.81164 -5.6254,2.04264 -8.8183,3.70507 -3.1929,1.66239 -6.3713,3.74653 -9.459,6.41016 -3.0876,2.66356 -6.0122,5.83393 -8.0703,8.12109 -2.0581,2.28715 -3.4014,3.88457 -5.0586,6.64649 -1.6572,2.76179 -3.6246,6.62506 -7.2481,13.22851 -3.6234,6.60346 -8.9045,15.95741 -14.041,24.84375 -5.1364,8.88634 -10.1628,17.35903 -15.125,27.11719 -4.9621,9.75813 -13.8883,33.693 -13.8883,33.693 0,0 1.2842,3.01797 2.0938,3.09961 0.8096,0.0816 1.2576,-0.16715 1.6328,-0.36524 0.3752,-0.19808 0.6859,-0.42228 1.0117,-0.67968 0.6516,-0.51482 11.4117,-14.80738 16.7926,-19.27504 5.381,-4.46773 11.605,-8.32688 16.0781,-11.04687 4.4731,-2.71999 7.0881,-4.24514 9.7305,-5.66406 2.6424,-1.41894 5.303,-2.72739 8.1738,-4.02149 2.8709,-1.2941 5.9437,-2.56981 9.461,-3.95312 3.5173,-1.38332 7.4166,-2.84748 11.4882,-4.00586 4.0717,-1.15839 8.395,-2.03246 12.8614,-2.90039 4.4664,-0.86794 9.0222,-1.7224 14.9531,-2.81641 5.9309,-1.09401 13.2138,-2.42342 19.5234,-3.4707 6.3097,-1.04729 11.6523,-1.81217 16.6035,-2.49219 4.9513,-0.68003 9.4683,-1.26842 13.8536,-1.6875 4.3854,-0.4191 8.6157,-0.66226 10.8886,-0.93555 1.1373,-0.13674 1.6899,-0.15446 2.5254,-0.625 0.4178,-0.23527 1.0577,-0.88687 1.1641,-1.6582 0.092,-0.66484 -0.07,-0.99263 -0.1367,-1.125 l -1.668,-5.04102 c -0.013,-0.0375 -0.026,-0.0746 -0.041,-0.11132 -2.2284,-5.59537 -4.4582,-11.1938 -6.582,-16.41406 -2.1238,-5.22027 -4.145,-10.07454 -6.1778,-14.33008 -2.0327,-4.25555 -4.1373,-8.03596 -7.4004,-11.43359 -3.263,-3.39765 -7.4965,-6.26046 -11.3613,-8.52735 -3.8648,-2.26688 -7.4327,-3.9677 -10.7383,-4.95508 -3.3054,-0.98733 -6.2104,-1.20507 -9.0957,-1.39648 -2.8852,-0.19141 -5.9679,-0.36889 -9.4629,-0.39258 z"
+         id="path25531"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_LeftTrigger_Active.png"
+         inkscape:export-xdpi="134.69351"
+         inkscape:export-ydpi="134.69351" />
+    </g>
+    <path
+       style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 432.6202,60.430563 a 16.865718,15.913169 0 0 1 -16.86572,15.91317 16.865718,15.913169 0 0 1 -16.86572,-15.91317 16.865718,15.913169 0 0 1 16.86572,-15.91317 16.865718,15.913169 0 0 1 16.86572,15.91317 z"
+       id="path23416"
+       inkscape:label="Guide Button"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox Wireless Controller Images\Theme SVG\Theme Assets\Xbox Series X Active Presses\XBSeries_HomeButton.png"
+       inkscape:export-xdpi="134.69351"
+       inkscape:export-ydpi="134.69351" />
+  </g>
+</svg>

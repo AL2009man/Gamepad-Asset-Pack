@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="35.679337mm"
+   height="35.237556mm"
+   viewBox="0 0 35.679337 35.237556"
+   version="1.1"
+   id="svg84499"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Arcade Stick Active Press.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview84501"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0998546"
+     inkscape:cx="-25.003305"
+     inkscape:cy="19.093433"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs84496">
+    <linearGradient
+       id="linearGradient2011"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#24d2f6;stop-opacity:1;"
+         offset="0"
+         id="stop2009" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2011"
+       id="linearGradient853"
+       x1="96.258751"
+       y1="148.22321"
+       x2="115.35833"
+       y2="148.22321"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7456421,0,0,1.903484,77.38702,-160.7338)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-190.41504,-84.15959)">
+    <path
+       style="display:inline;fill:#107893;fill-opacity:0.501961;stroke:url(#linearGradient853);stroke-width:2.36972;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 202.64774,117.27247 c -11.59149,-4.12651 -14.85813,-18.799288 -6.09747,-27.388078 3.34989,-3.284175 6.59501,-4.539942 11.73201,-4.539942 5.13702,0 8.38214,1.255767 11.73203,4.539942 3.36343,3.297445 4.89521,6.984971 4.89521,11.784378 0,3.1176 -0.22585,4.27877 -1.2934,6.64923 -3.53322,7.8456 -12.8759,11.83535 -20.96838,8.95447 z"
+       id="path847-1"
+       sodipodi:nodetypes="sssssss"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\DualShock 4 Controller Images\Image Assets\DualShock 4 Assets\DS4_Face_Button.png"
+       inkscape:export-xdpi="95.886261"
+       inkscape:export-ydpi="95.886261"
+       inkscape:label="Active Button Press" />
+  </g>
+</svg>

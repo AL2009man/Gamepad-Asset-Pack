@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="205.53mm"
+   height="144.14766mm"
+   viewBox="0 0 205.52999 144.14766"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Steam Controller Gyro-Acel Black.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="212.13203"
+     inkscape:cy="202.23254"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient851"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop849" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2039-8"
+       x="-0.0038726768"
+       width="1.0077457"
+       y="-0.0038843837"
+       height="1.0077691">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2029-8" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2031-1" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset2035-8" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2037-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter2039-8-2"
+       x="-0.0038726768"
+       width="1.0077457"
+       y="-0.0038843837"
+       height="1.0077691">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2029-8-7" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2031-1-2" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset2035-8-3" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2037-0-3" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(223.65735,-64.839522)">
+    <path
+       id="path26183"
+       style="display:none;mix-blend-mode:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.37731;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -166.88975,66.029848 c -3.18146,0.0108 -6.77831,0.0695 -9.02278,0.20837 -4.97081,0.30098 -8.25569,0.67962 -11.34542,1.30043 -2.99094,0.60428 -4.50756,1.32372 -5.91845,2.0692 -1.11924,0.59014 -2.08099,1.85999 -3.09912,3.20499 -0.34098,0.44915 -0.689,0.91238 -1.0464,1.34505 -1.21568,1.48138 -2.36783,3.89853 -3.28014,5.97479 l -0.1505,0.33607 c -2.35378,5.22482 -8.31463,19.13577 -12.74225,35.414402 -5.02254,18.46305 -9.92501,44.54441 -8.81045,58.16601 1.19918,14.68669 7.90768,25.10806 19.93027,30.97476 1.88818,0.92171 3.73633,1.61547 5.53984,2.07872 1.79884,0.46316 3.55304,0.69589 5.24605,0.69589 7.96408,0 11.86981,-4.98731 12.57051,-5.98427 2.14442,-3.05444 8.22021,-14.4445 11.84831,-21.25171 l 0.97137,-1.81777 c 3.4965,-6.54387 5.08837,-9.12327 5.10241,-9.14447 0.0168,-0.0258 1.71896,-2.67817 3.75057,-3.90788 2.4172,-1.46256 7.12214,-1.59187 7.16684,-1.59423 l 29.28654,-0.21401 29.281952,0.21401 c 0.04935,0.002 4.754456,0.12693 7.171672,1.59423 2.031601,1.22971 3.734044,3.88212 3.752851,3.90328 0.01166,0.0261 1.608124,2.6052 5.099925,9.14907 l 0.961789,1.79904 c 3.632898,6.81196 9.713717,18.216 11.855827,21.27044 0.703063,0.99696 4.60866,5.98427 12.572798,5.98427 3.385997,0 7.014226,-0.93118 10.785852,-2.77461 12.022616,-5.8667 18.731161,-16.28807 19.93034,-30.97476 1.114526,-13.62632 -3.783525,-39.70296 -8.810745,-58.16601 -4.427652,-16.278632 -10.383799,-30.189582 -12.742243,-35.414402 l -0.150479,-0.33607 c -0.912333,-2.07626 -2.064487,-4.49341 -3.28015,-5.97479 -0.352697,-0.43267 -0.705441,-0.8959 -1.046383,-1.34505 -1.013449,-1.345 -1.97974,-2.61485 -3.094306,-3.20499 -1.415527,-0.74548 -2.932334,-1.46492 -5.923302,-2.0692 -3.089711,-0.62081 -6.374437,-0.99945 -11.340561,-1.30043 -4.488794,-0.2728 -14.392949,-0.23754 -15.556886,-0.12229 -1.241533,0.12228 -1.8903,0.49386 -2.268881,0.75721 -0.406788,0.28225 -0.743135,0.85607 -0.919491,1.20406 -5.579842,-0.17163 -18.698269,-0.51036 -36.279579,-0.51036 -17.5813,0 -30.69715,0.33873 -36.27698,0.51036 -0.17639,-0.34799 -0.51043,-0.92181 -0.91716,-1.20406 -0.37861,-0.26335 -1.0275,-0.63493 -2.2738,-0.75721 -0.58201,-0.0574 -3.34784,-0.0964 -6.52926,-0.0861 z"
+       sodipodi:nodetypes="scccccccccccscccccccccccccscccccccccccccscccs"
+       inkscape:label="Controller 1"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - PlayStation Controller Layout Updates\VSCView - PlayStation Controller Layout (Ver. 1.03)\Steam Controller Controller Images\VSCView Image Assets\SC_Gyro-Accel.png"
+       inkscape:export-xdpi="31.701454"
+       inkscape:export-ydpi="31.701454" />
+    <path
+       id="path26183-9"
+       style="display:inline;opacity:1;mix-blend-mode:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40521;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -167.42964,64.820276 c 0,0 -6.85787,0.07032 -9.12869,0.210815 -5.02915,0.304513 -7.88487,0.734369 -11.01086,1.362466 -3.02605,0.611373 -4.56047,1.339257 -5.98792,2.093487 -1.13238,0.597067 -2.23404,1.68304 -3.26412,3.043827 -0.34498,0.454422 -0.74386,1.004941 -1.10545,1.44269 -1.22995,1.498767 -2.61779,4.02614 -3.54081,6.12677 l -0.15227,0.340015 c -2.46301,5.498671 -6.44425,14.913847 -10.14455,26.283764 -2.87224,8.82555 -5.2122,18.81055 -7.38224,29.00588 -2.53233,11.89742 -4.59305,24.08125 -4.41262,35.0432 0.10995,6.67984 0.34641,8.43006 1.85801,13.94049 0.60726,2.21373 1.3629,4.31712 2.41131,6.40795 3.10836,6.19896 7.66304,11.09553 13.95248,14.6675 2.60121,1.4773 5.06523,2.66513 8.0159,3.41813 1.83562,0.46845 3.85357,0.75052 5.85365,0.74927 8.05756,0 12.32422,-5.01541 13.03314,-6.02407 2.16959,-3.09029 8.36684,-14.2337 12.03752,-21.12081 l 0.98278,-1.83911 c 3.53754,-6.62068 5.03605,-9.12206 5.05026,-9.14351 0.017,-0.0261 1.59547,-2.8233 3.65093,-4.06744 2.44557,-1.47973 7.04037,-1.46999 7.0856,-1.47238 l 28.8596,-0.21652 28.428389,0.21106 c 0.04993,0.002 4.775182,-0.0704 7.220771,1.41415 2.055446,1.24414 3.88311,4.22002 3.902138,4.24143 0.0118,0.0264 1.568534,2.67085 5.10132,9.29153 l 0.973078,1.82016 c 3.675539,6.89192 9.385309,17.58444 11.552562,20.67473 0.711315,1.00866 5.306282,6.28063 13.3639,6.28063 1.500495,0 2.672779,-0.1696 3.948675,-0.38684 3.346233,-0.61534 5.832785,-1.71518 8.571268,-3.1394 2.171418,-1.12229 4.402493,-2.52766 5.878868,-3.74281 7.526404,-6.19472 12.470094,-14.84401 13.409186,-26.34528 0.300588,-3.10798 0.378252,-6.89233 0.114986,-11.10402 -0.908986,-14.54178 -4.860683,-34.17792 -8.824518,-48.65758 -4.47962,-16.469691 -10.6623,-30.866042 -13.04843,-36.152188 l -0.15224,-0.340015 c -0.92304,-2.10063 -2.153032,-4.470147 -3.382962,-5.968914 -0.35684,-0.437749 -0.734158,-0.932811 -1.079108,-1.387233 -1.02534,-1.360787 -2.014673,-2.551998 -3.142317,-3.149065 -1.432141,-0.75423 -2.848159,-1.546254 -5.874233,-2.157627 -3.125977,-0.628097 -6.390792,-1.139804 -11.415206,-1.444317 -4.541482,-0.276002 -15.446061,-0.141109 -16.62366,-0.02451 -1.256105,0.123715 -2.127461,0.615412 -2.510486,0.881853 -0.411562,0.285563 -0.727052,0.651144 -0.905478,1.003218 -5.645336,-0.173644 -17.843393,-0.51635 -35.631063,-0.51635 -17.78766,0 -29.95198,0.342706 -35.5973,0.51635 -0.17846,-0.352074 -0.67428,-0.809852 -1.08579,-1.095415 -0.38305,-0.266441 -1.02786,-0.695002 -2.28879,-0.818717 -0.0815,-0.008 -0.31017,-0.03686 -0.6061,-0.05591 -0.42778,-0.02754 -1.01847,-0.04742 -1.69557,-0.0614 -2.23701,-0.04618 -5.26354,-0.03996 -5.26354,-0.03996 z"
+       sodipodi:nodetypes="ccccccccsssssssccccccccccccccsccscscccccccccccscccsscc"
+       inkscape:label="Controller"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - PlayStation Controller Layout Updates\VSCView - PlayStation Controller Layout (Ver. 1.03)\Steam Controller Controller Images\VSCView Image Assets\SC_Gyro-Accel.png"
+       inkscape:export-xdpi="31.701454"
+       inkscape:export-ydpi="31.701454" />
+  </g>
+</svg>

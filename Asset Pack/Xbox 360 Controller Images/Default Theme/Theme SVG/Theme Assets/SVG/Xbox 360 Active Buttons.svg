@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="168.40038mm"
+   height="445.49893mm"
+   viewBox="0 0 168.40038 445.49892"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Xbox 360 Active Buttons.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.25732566"
+     inkscape:cx="-514.91173"
+     inkscape:cy="1014.2789"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1018"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1743"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1459"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1839"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     id="layer1"
+     inkscape:groupmode="layer"
+     transform="translate(-345.46727,25.743017)">
+    <g
+       id="g2401"
+       inkscape:label="Start/Back Buttons"
+       transform="translate(176.85113,84.996994)"
+       style="fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         style="display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:nonzero;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 275.29119,195.41599 c -4.62674,0 -8.39277,3.49517 -8.39277,7.78712 0,0.14491 0.005,0.28852 0.013,0.4315 -0.008,0.12793 -0.013,0.25688 -0.013,0.38654 0,3.84472 3.76603,6.96856 8.39277,6.96856 h 5.88492 c 4.62264,0 8.38448,-3.12384 8.38448,-6.96856 0,-0.12966 -0.004,-0.25861 -0.013,-0.38654 0.008,-0.14298 0.013,-0.28659 0.013,-0.4315 0,-4.29195 -3.76184,-7.78712 -8.38448,-7.78712 z"
+         id="path1383"
+         inkscape:label="Start Button"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_StartButton.png"
+         inkscape:export-xdpi="95.9851"
+         inkscape:export-ydpi="95.9851" />
+      <path
+         style="display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:nonzero;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 232.27367,195.41599 c -4.62265,0 -8.38451,3.49517 -8.38451,7.78712 0,0.14491 0.004,0.28852 0.0129,0.4315 -0.008,0.12793 -0.0129,0.25688 -0.0129,0.38654 0,3.84472 3.76186,6.96856 8.38451,6.96856 h 5.88491 c 4.62674,0 8.39277,-3.12384 8.39277,-6.96856 0,-0.12966 -0.004,-0.25861 -0.0129,-0.38654 0.008,-0.14298 0.0129,-0.28659 0.0129,-0.4315 0,-4.29195 -3.76603,-7.78712 -8.39277,-7.78712 z"
+         id="path7187-5-9"
+         inkscape:label="Back Button"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_BackButton.png"
+         inkscape:export-xdpi="95.9851"
+         inkscape:export-ydpi="95.9851" />
+    </g>
+    <g
+       id="g28646"
+       inkscape:label="Face Button"
+       style="display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:0.61986322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(2.5816944,0,0,2.5807349,149.83521,-679.0825)">
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:0.61986322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 110.62113,282.68077 c -0.17465,0 -0.35441,0.007 -0.53227,0.0191 -3.47051,0.26706 -6.12865,3.0574 -5.92677,6.22081 0.18907,2.95879 2.87958,5.27616 6.12417,5.27616 0.17785,0 0.3569,-0.005 0.53796,-0.0191 3.47052,-0.26536 6.12875,-3.05428 5.92367,-6.21771 -0.18747,-2.96052 -2.87895,-5.27926 -6.12676,-5.27926 z"
+         id="path6176-7"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_Y_Button.png"
+         inkscape:export-xdpi="95.9851"
+         inkscape:export-ydpi="95.9851" />
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:0.61986322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 96.882433,293.93125 c -0.170527,0 -0.345689,0.007 -0.519348,0.0186 -3.388577,0.25325 -5.984359,2.8995 -5.787244,5.89938 0.184605,2.80584 2.811481,5.0028 5.97948,5.0028 0.173651,0 0.348763,-0.005 0.52555,-0.0181 3.388579,-0.25164 5.984369,-2.89638 5.784139,-5.89628 -0.18305,-2.80748 -2.81145,-5.00642 -5.982577,-5.00642 z"
+         id="path6176-8-9"
+         inkscape:label="X"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_X_Button.png"
+         inkscape:export-xdpi="95.9851"
+         inkscape:export-ydpi="95.9851" />
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:0.61986322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 123.41053,293.03828 c -0.16283,0 -0.33088,0.007 -0.49816,0.0186 -3.26759,0.25806 -6.08013,2.95471 -6.27042,6.01152 -0.17774,2.85908 2.05323,5.09788 5.07824,5.09788 0.16582,0 0.3339,-0.005 0.50437,-0.0181 3.26738,-0.25642 6.07949,-2.95159 6.26679,-6.00842 0.17944,-2.86076 -2.05282,-5.10149 -5.08082,-5.10149 z"
+         id="path6176-6-5"
+         inkscape:label="B"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_B_Button.png"
+         inkscape:export-xdpi="95.9851"
+         inkscape:export-ydpi="95.9851" />
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:0.61986322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 109.20829,304.64687 c -0.17177,0 -0.34803,0.006 -0.52296,0.0171 -3.41341,0.23792 -6.02766,2.72408 -5.8291,5.5423 0.18596,2.63592 2.83168,4.69997 6.02288,4.69997 0.17494,0 0.35161,-0.005 0.52969,-0.0171 3.41341,-0.2364 6.0277,-2.72096 5.826,-5.53919 -0.18439,-2.63746 -2.83214,-4.70307 -6.02651,-4.70307 z"
+         id="path4476"
+         inkscape:label="A"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_A_Button.png"
+         inkscape:export-xdpi="95.9851"
+         inkscape:export-ydpi="95.9851" />
+    </g>
+    <path
+       style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 454.67095,401.41074 a 21.835783,17.54519 0 0 1 -21.83578,17.54518 21.835783,17.54519 0 0 1 -21.83578,-17.54518 21.835783,17.54519 0 0 1 21.83578,-17.5452 21.835783,17.54519 0 0 1 21.83578,17.5452 z"
+       id="path29311-6"
+       inkscape:label="Xbox Guide Button"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_GuideButton.png"
+       inkscape:export-xdpi="95.9851"
+       inkscape:export-ydpi="95.9851" />
+    <path
+       style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 460.68321,160.25219 c 1.06488,0.005 2.12983,0.0238 3.09622,0.0586 1.9328,0.0724 3.46561,0.21971 4.60239,0.34007 1.13678,0.12016 1.89018,0.21734 2.99052,0.40278 1.10036,0.18538 2.54483,0.45738 3.68168,0.66146 1.13686,0.20413 1.97396,0.34116 3.27838,0.61881 1.30447,0.27765 3.07931,0.69613 4.81497,1.23361 1.73569,0.53745 3.42169,1.1889 4.87571,1.7924 1.45402,0.60352 2.67885,1.15901 4.36308,1.94044 1.68429,0.78141 3.83279,1.79129 5.6191,2.68459 1.78632,0.89334 3.2087,1.67158 4.28414,2.29253 1.07549,0.62095 1.80376,1.08745 2.49131,1.52832 0.68755,0.44093 1.34207,0.85833 1.85359,1.21761 0.51151,0.35928 0.87736,0.65642 1.18917,0.94022 0.31179,0.28381 0.56829,0.55422 0.94987,0.97487 0.38157,0.42068 0.89875,1.00226 1.31185,1.55502 0.41308,0.5528 0.74674,1.14692 1.18551,3.14337 0.43876,1.99648 1.01827,5.45122 1.37259,8.02315 0.35431,2.5719 0.48418,4.2321 0.39477,5.16781 -0.0449,0.46773 -0.16162,0.83263 -0.44702,1.01622 -0.2853,0.1838 -0.58315,0.13442 -0.91706,0.0827 -0.66775,-0.10326 -1.67881,-0.34631 -3.30513,-0.86686 -1.6263,-0.52053 -3.86576,-1.31535 -6.16445,-2.17381 -2.29873,-0.85846 -4.64888,-1.77978 -7.04392,-2.60726 -2.39499,-0.82749 -4.8415,-1.56474 -7.36334,-2.31784 -2.52185,-0.75309 -5.11806,-1.51947 -6.95399,-1.98713 -1.83593,-0.46765 -2.91801,-0.64099 -4.37768,-0.89353 -1.45969,-0.25246 -3.26313,-0.57862 -6.28231,-0.82017 -3.01915,-0.24163 -7.25888,-0.39857 -10.40121,-0.47611 -3.14236,-0.0774 -5.18137,-0.0763 -6.89325,0.0774 -1.71193,0.15369 -3.11305,0.46108 -4.49552,0.7335 -1.38247,0.27242 -2.72234,0.50362 -3.79829,0.78951 -1.07598,0.28592 -1.9048,0.63104 -2.32853,0.80552 -0.21192,0.0871 -0.31092,0.12834 -0.3899,0.15475 -0.0198,0.008 -0.0397,0.0106 -0.0657,0.0158 -0.0133,0.003 -0.0283,0.008 -0.0474,0.0106 -0.0198,0.002 -0.0683,-0.005 -0.0705,-0.005 -0.002,-3.1e-4 -0.10191,-0.0298 -0.10321,-0.0306 -0.001,-8.2e-4 -0.0925,-0.0763 -0.0936,-0.0774 -0.001,-0.001 -0.0391,-0.056 -0.0475,-0.0721 -0.009,-0.0158 -0.009,-0.0238 -0.009,-0.0267 -0.0111,-0.0283 -0.0475,-0.10299 -0.0936,-0.24269 -0.0461,-0.13996 -0.11616,-0.38317 -0.31095,-1.4243 -0.1948,-1.04112 -0.51857,-2.9058 -0.77497,-4.41965 -0.25638,-1.5139 -0.44569,-2.67339 -0.60247,-3.74752 -0.15681,-1.07417 -0.28284,-2.06549 -0.33403,-2.922 -0.0512,-0.8565 -0.0253,-1.5622 -0.009,-2.10179 0.0154,-0.53959 0.0246,-0.94508 0.0753,-1.60569 0.0505,-0.66065 0.14451,-1.57195 0.20776,-2.10048 0.0316,-0.26431 0.0468,-0.44705 0.12627,-0.63479 0.0795,-0.18776 0.25276,-0.32708 0.41422,-0.39743 0.32347,-0.14102 0.77416,-0.21866 1.35436,-0.39876 0.58013,-0.1801 1.26258,-0.45099 1.78192,-0.87753 0.51921,-0.42646 0.93068,-1.05702 1.33978,-1.66171 0.4091,-0.60465 0.81593,-1.17757 1.38229,-1.59502 0.56652,-0.41756 1.25376,-0.64155 2.35646,-0.87753 1.10275,-0.23609 2.65072,-0.48987 4.2028,-0.64546 1.55208,-0.15581 3.09745,-0.20994 5.03117,-0.23741 0.96685,-0.0132 2.03255,-0.0211 3.09737,-0.0185 z"
+       id="path33497-5"
+       inkscape:label="Right Bumper"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_RightBumper_Active.png"
+       inkscape:export-xdpi="95.9851"
+       inkscape:export-ydpi="95.9851" />
+    <path
+       style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 403.80358,161.00923 c -1.16957,0.005 -2.33925,0.0226 -3.40069,0.0587 -2.12288,0.0724 -3.80643,0.21978 -5.05501,0.34007 -1.24858,0.12027 -2.07607,0.21736 -3.28462,0.40276 -1.20856,0.18529 -2.79509,0.4574 -4.04374,0.66148 -1.24865,0.20406 -2.16807,0.34116 -3.60081,0.61881 -1.43274,0.27764 -3.38212,0.69613 -5.28848,1.23361 -1.90637,0.53745 -3.75818,1.18889 -5.35519,1.7924 -1.59702,0.6035 -2.9423,1.15901 -4.79219,1.94043 -1.84988,0.7814 -4.20968,1.79129 -6.17167,2.6846 -1.96199,0.89334 -3.52425,1.67156 -4.70547,2.29251 -1.18122,0.62095 -1.98114,1.08745 -2.73629,1.52834 -0.75516,0.44092 -1.47408,0.85834 -2.03588,1.21761 -0.56181,0.35927 -0.96365,0.6564 -1.30611,0.94021 -0.34247,0.28381 -0.62419,0.55421 -1.04329,0.97488 -0.4191,0.42068 -0.98715,1.00224 -1.44086,1.55502 -0.45371,0.55278 -0.82019,1.1469 -1.30211,3.14337 -0.48191,1.99647 -1.11839,5.45122 -1.50756,8.02313 -0.38917,2.5719 -0.53181,4.23211 -0.43359,5.16782 0.0491,0.46772 0.17759,0.83263 0.49095,1.01623 0.31337,0.1837 0.64053,0.13449 1.00727,0.0827 0.73341,-0.10336 1.84391,-0.34633 3.63016,-0.86687 1.78625,-0.52053 4.24592,-1.31534 6.7707,-2.17382 2.52478,-0.85844 5.10607,-1.77978 7.73661,-2.60725 2.63054,-0.82749 5.31762,-1.56473 8.08748,-2.31785 2.76986,-0.75309 5.6214,-1.51947 7.63787,-1.98711 2.01649,-0.46767 3.20497,-0.641 4.8082,-0.89353 1.60323,-0.25243 3.58404,-0.57862 6.90011,-0.82019 3.31607,-0.24159 7.97274,-0.39858 11.42414,-0.4761 3.45139,-0.0774 5.69091,-0.0762 7.57117,0.0773 1.88028,0.15357 3.41917,0.46108 4.93761,0.73349 1.51842,0.27244 2.99005,0.50362 4.17181,0.78951 1.18179,0.28592 2.09215,0.63106 2.55752,0.80552 0.2327,0.0872 0.34153,0.12827 0.42826,0.1547 0.0217,0.008 0.0436,0.0107 0.072,0.016 0.0143,0.003 0.0312,0.008 0.0521,0.0107 0.0209,0.001 0.0751,-0.005 0.0774,-0.005 0.002,-3.2e-4 0.11183,-0.0299 0.11339,-0.0307 0.001,-8.2e-4 0.10165,-0.0763 0.10273,-0.0773 10e-4,-0.001 0.043,-0.0559 0.0521,-0.072 0.009,-0.0159 0.01,-0.024 0.0107,-0.0267 0.0132,-0.0283 0.052,-0.10289 0.10272,-0.24272 0.0508,-0.13983 0.12768,-0.3832 0.34154,-1.42432 0.21384,-1.04112 0.56957,-2.90579 0.85117,-4.41965 0.2816,-1.5139 0.48952,-2.67337 0.66173,-3.74751 0.17222,-1.07416 0.31064,-2.0655 0.36688,-2.92199 0.0562,-0.85651 0.0278,-1.56221 0.0107,-2.1018 -0.0172,-0.53959 -0.0271,-0.94509 -0.0827,-1.60569 -0.0556,-0.66066 -0.15862,-1.57196 -0.22813,-2.10047 -0.0348,-0.26433 -0.0514,-0.44706 -0.13875,-0.63481 -0.0873,-0.18767 -0.27761,-0.32709 -0.45494,-0.39742 -0.35529,-0.14089 -0.8503,-0.21878 -1.48756,-0.39876 -0.63719,-0.18 -1.38676,-0.45099 -1.95716,-0.87753 -0.57027,-0.42646 -1.02222,-1.05704 -1.47154,-1.6617 -0.44932,-0.60467 -0.89617,-1.17758 -1.51824,-1.59503 -0.62222,-0.41758 -1.37704,-0.64157 -2.5882,-0.87753 -1.21119,-0.23604 -2.91138,-0.48987 -4.61609,-0.64548 -1.70471,-0.15568 -3.40207,-0.20989 -5.52595,-0.23738 -1.06195,-0.0137 -2.23246,-0.0221 -3.40203,-0.0173 z"
+       id="path33497"
+       inkscape:label="Left Bumper"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_LeftBumper_Active.png"
+       inkscape:export-xdpi="95.9851"
+       inkscape:export-ydpi="95.9851" />
+    <path
+       style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 465.78897,218.28891 c 2.25476,0.0111 4.98912,0.18914 6.90841,1.00012 1.3958,0.58991 2.32525,1.5315 2.98471,2.69725 0.65945,1.16575 1.06777,2.54932 1.47838,4.08708 0.8212,3.07548 1.66972,6.83821 2.90505,12.0154 1.23533,5.17719 2.85601,11.77285 4.47846,18.36672 a 0.35831661,0.35818345 0 0 1 -0.4234,0.43301 c -2.79059,-0.57985 -5.56812,-1.15482 -8.79761,-1.52113 -3.2295,-0.36631 -6.93256,-0.52578 -10.18796,-0.528 -3.25542,-0.002 -6.07294,0.15217 -8.61456,0.45955 -2.54167,0.3072 -4.82112,0.77046 -7.11383,1.23618 a 0.35831661,0.35818345 0 0 1 -0.43317,-0.34361 c -0.22744,-9.36931 -0.45524,-18.73863 -0.54916,-24.87587 -0.0469,-3.06861 -0.0593,-5.33539 0.20122,-7.06928 0.2605,-1.73392 0.8237,-2.96477 1.92832,-3.80632 2.20925,-1.68305 6.27652,-1.83839 8.29597,-1.94297 2.01948,-0.10461 2.02777,-0.0999 4.28283,-0.16343 0.70472,-0.0198 1.63144,-0.0497 2.65634,-0.0447 z"
+       id="path8375-0"
+       inkscape:label="Right Trigger"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_RightTrigger_Active.png"
+       inkscape:export-xdpi="95.9851"
+       inkscape:export-ydpi="95.9851" />
+    <path
+       style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 402.53919,218.14244 c -2.25476,0.0111 -4.98912,0.18914 -6.90841,1.00012 -1.3958,0.58991 -2.32525,1.5315 -2.98471,2.69725 -0.65945,1.16575 -1.06777,2.54932 -1.47838,4.08708 -0.8212,3.07548 -1.66972,6.83821 -2.90505,12.0154 -1.23533,5.17719 -2.85601,11.77285 -4.47846,18.36672 a 0.35831661,0.35818345 0 0 0 0.4234,0.43301 c 2.79059,-0.57985 5.56812,-1.15482 8.79761,-1.52113 3.2295,-0.36631 6.93256,-0.52578 10.18796,-0.528 3.25542,-0.002 6.07294,0.15217 8.61456,0.45955 2.54167,0.3072 4.82112,0.77046 7.11383,1.23618 a 0.35831661,0.35818345 0 0 0 0.43317,-0.34361 c 0.22744,-9.36931 0.45524,-18.73863 0.54916,-24.87587 0.0469,-3.06861 0.0593,-5.33539 -0.20122,-7.06928 -0.2605,-1.73392 -0.8237,-2.96477 -1.92832,-3.80632 -2.20925,-1.68305 -6.27652,-1.83839 -8.29597,-1.94297 -2.01948,-0.10461 -2.02777,-0.0999 -4.28283,-0.16343 -0.70472,-0.0198 -1.63144,-0.0497 -2.65634,-0.0447 z"
+       id="path8388-8"
+       inkscape:label="Left Trigger"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_LeftTrigger_Active.png"
+       inkscape:export-xdpi="95.9851"
+       inkscape:export-ydpi="95.9851" />
+    <g
+       id="g4308"
+       inkscape:label="Regular D-PAD"
+       transform="translate(3.0846128)"
+       style="stroke-width:1.6;stroke-miterlimit:10;stroke-dasharray:none">
+      <path
+         style="display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:nonzero;stroke:#24d2f6;stroke-width:6.04724417;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 132.55273,115.78715 -49.882808,49.88281 c 5.224992,6.69916 8.289062,14.71472 8.289062,23.33594 v 14.44531 c 0,6.8523 4.441407,12.81921 10.978516,15.91211 2.85131,1.8243 6.3703,2.91992 10.19141,2.91992 h 40.8125 c 3.8225,0 7.34401,-1.09637 10.19921,-2.92187 6.53987,-3.0934 10.98633,-9.05926 10.98633,-15.91016 V 189.0059 c 0,-8.62478 3.06745,-16.64435 8.29883,-23.3457 z"
+         transform="matrix(0.26458333,0,0,0.26458333,395.74646,-25.643233)"
+         id="path4262"
+         inkscape:label="D-PAD Down"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_D-PAD_Down.png"
+         inkscape:export-xdpi="95.9851"
+         inkscape:export-ydpi="95.9851" />
+      <path
+         style="display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:nonzero;stroke:#24d2f6;stroke-width:6.04724417;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 185.83203,62.5059 -49.95703,49.95703 49.64062,49.64063 c 3.05222,-3.14609 6.61755,-5.9216 10.60157,-8.21485 h 0.01 c 8.16261,-4.2105 17.73697,-6.63672 27.96875,-6.63672 l 17.17578,-0.0508 c 3.816,0 7.33295,-1.08855 10.18555,-2.90625 6.55019,-3.0896 11.00195,-9.06518 11.00195,-15.92578 V 95.933594 c 0,-10.023992 -9.49662,-18.179688 -21.16992,-18.179688 H 222.79321 C 208.02079,77.452359 194.7737,71.549426 185.83227,62.505859 Z"
+         transform="matrix(0.26458333,0,0,0.26458333,395.74646,-25.643233)"
+         id="path4260"
+         inkscape:label="D-PAD Right"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_D-PAD_Right.png"
+         inkscape:export-xdpi="95.9851"
+         inkscape:export-ydpi="95.9851" />
+      <path
+         style="display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:nonzero;stroke:#24d2f6;stroke-width:6.04724417;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="M 79.267578,62.5 C 70.321349,71.544676 57.068368,77.448431 42.294922,77.75 H 23.798828 c -11.656101,0 -21.1523436,8.155696 -21.1523436,18.179688 v 32.435542 c 0,6.84361 4.4311211,12.80419 10.9492186,15.90039 2.853506,1.83261 6.37692,2.93165 10.203125,2.93165 l 17.19336,0.0508 c 10.271395,0 19.881246,2.4468 28.064453,6.6875 3.954393,2.28626 7.490879,5.04931 10.523437,8.17773 l 49.650392,-49.65039 z"
+         transform="matrix(0.26458333,0,0,0.26458333,395.74646,-25.643233)"
+         id="path4258"
+         inkscape:label="D-PAD Left"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_D-PAD_Left.png"
+         inkscape:export-xdpi="95.9851"
+         inkscape:export-ydpi="95.9851" />
+      <path
+         style="display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:nonzero;stroke:#24d2f6;stroke-width:6.04724417;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m 112.12891,2.6464844 c -11.6733,0 -21.169926,8.1572306 -21.169926,18.1640626 l 0.06836,14.511719 c 0,8.716693 -3.194547,16.873228 -8.626953,23.666015 l 50.152339,50.152339 50.14649,-50.146479 c -5.42982,-6.793022 -8.6211,-14.950772 -8.6211,-23.667969 l 0.0527,-14.511719 c 0,-10.006832 -9.51225,-18.1640624 -21.18555,-18.1640624 z"
+         transform="matrix(0.26458333,0,0,0.26458333,395.74646,-25.643233)"
+         id="path6858"
+         inkscape:label="D-PAD Up"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_D-PAD_Up.png"
+         inkscape:export-xdpi="95.9851"
+         inkscape:export-ydpi="95.9851" />
+    </g>
+    <ellipse
+       style="display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+       id="ellipse10367"
+       cx="470.11716"
+       cy="339.6261"
+       rx="29.839642"
+       ry="24.429182"
+       inkscape:label="Right Stick Click"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_RightStick_Click.png"
+       inkscape:export-xdpi="95.9851"
+       inkscape:export-ydpi="95.9851" />
+    <ellipse
+       style="display:inline;fill:#107893;fill-opacity:0.501961;fill-rule:evenodd;stroke:#24d2f6;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+       id="path10285"
+       cx="396.51028"
+       cy="339.70682"
+       rx="30.023001"
+       ry="25.023121"
+       inkscape:label="Left Stick Click"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Xbox 360 Controller Images\Theme SVG\Theme Assets\Active Presses\XB360_LeftStick_Click.png"
+       inkscape:export-xdpi="95.9851"
+       inkscape:export-ydpi="95.9851" />
+    <path
+       id="rect3597"
+       style="fill:#000000;fill-opacity:0.501961;fill-rule:evenodd;stroke:none;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.46154"
+       d="m 528.55209,-21.214218 -0.87903,0.879018 43.27438,43.274359 -43.27438,43.274362 0.87903,0.879533 43.27435,-43.274362 43.27437,43.274362 0.879,-0.879533 -43.27435,-43.274362 43.27435,-43.274359 -0.879,-0.879018 -43.27437,43.274361 z" />
+  </g>
+</svg>

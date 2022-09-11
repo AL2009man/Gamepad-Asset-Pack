@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="439.3317mm"
+   height="439.3317mm"
+   viewBox="0 0 439.33167 439.33167"
+   version="1.1"
+   id="svg954"
+   sodipodi:docname="Compact Button Click.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs948">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient26183">
+      <stop
+         style="stop-color:#71d4f4;stop-opacity:1;"
+         offset="0"
+         id="stop26179" />
+      <stop
+         style="stop-color:#71d4f4;stop-opacity:0;"
+         offset="1"
+         id="stop26181" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5408"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#107893;stop-opacity:1;"
+         offset="0"
+         id="stop5406" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5378"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#24d2f6;stop-opacity:1;"
+         offset="0"
+         id="stop5376" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1533"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#107893;stop-opacity:1;"
+         offset="0"
+         id="stop1531" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1527"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#107893;stop-opacity:0.53036439;"
+         offset="0"
+         id="stop1525" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1521"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#1bd2ff;stop-opacity:0.56470591;"
+         offset="0"
+         id="stop1519" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26183"
+       id="radialGradient26839"
+       cx="-255.68033"
+       cy="97.88604"
+       fx="-255.68033"
+       fy="97.88604"
+       r="219.66585"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7577135,0,0,1.7577135,193.73245,-74.169575)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.17008995"
+     inkscape:cx="138.16219"
+     inkscape:cy="1105.2975"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata951">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(475.34618,121.77981)">
+    <circle
+       style="opacity:1;fill:url(#radialGradient26839);fill-opacity:1;fill-rule:evenodd;stroke:#00545a;stroke-width:24;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path3240"
+       cx="-255.68033"
+       cy="97.88604"
+       r="207.66585"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.10)\Steam Controller Controller Images\VSCView Image Assets\SC_GlyphPress.png"
+       inkscape:export-xdpi="8.6722631"
+       inkscape:export-ydpi="8.6722631" />
+  </g>
+</svg>

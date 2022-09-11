@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="63.980419mm"
+   height="63.980419mm"
+   viewBox="0 0 63.980419 63.980419"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="VSCView Default PadHeat DMC5.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0586053"
+     inkscape:cx="186.77694"
+     inkscape:cy="157.87388"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1063">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1059" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop1061" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1063"
+       id="radialGradient1065"
+       cx="31.99021"
+       cy="31.99021"
+       fx="31.99021"
+       fy="31.99021"
+       r="31.99021"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <circle
+     inkscape:export-filename="D:\Videos\Captures\Tools\VSCView-0.4.0.0\themes\dualshock4\al2009man\dmc5\dmc5_padheat.png"
+     inkscape:export-xdpi="14.291873"
+     inkscape:export-ydpi="14.291873"
+     style="fill:url(#radialGradient1065);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3"
+     id="path846"
+     cx="31.99021"
+     cy="31.99021"
+     r="31.99021"
+     inkscape:label="path846" />
+</svg>
