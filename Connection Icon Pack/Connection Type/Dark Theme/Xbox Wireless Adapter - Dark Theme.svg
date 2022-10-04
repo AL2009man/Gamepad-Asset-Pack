@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="131.06429mm"
+   height="367.23212mm"
+   viewBox="0 0 131.06428 367.23212"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Xbox Wireless Adapter - Dark Theme.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="401.63665"
+     inkscape:cy="616.59711"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1621"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1619" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6772" />
+    </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2092"
+       id="radialGradient2094"
+       cx="96.043251"
+       cy="226.7692"
+       fx="96.043251"
+       fy="226.7692"
+       r="12.36007"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2092">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2088" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2090" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="display:none;fill:#0e0e0e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.62191;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+     id="rect8281"
+     width="729.64581"
+     height="452.75458"
+     x="-313.08463"
+     y="-43.115658" />
+  <g
+     inkscape:label="Xbox Wireless Controller"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.165089,53.731373)">
+    <g
+       id="g3479"
+       inkscape:label="Body"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         id="rect852"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:13.1051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 34.720402,24.52343 V 306.94819 H 152.67683 V 24.52343 Z" />
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect852-4"
+         width="131.062"
+         height="22.357098"
+         x="28.165089"
+         y="16.347275" />
+    </g>
+    <g
+       id="g3475"
+       inkscape:label="USB Plug">
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect1506"
+         width="91.057999"
+         height="68.839653"
+         x="48.005119"
+         y="-50.731373" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:14.3191;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect2708"
+         width="17.694019"
+         height="20.342834"
+         x="63.075027"
+         y="-36.124317" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:14.3191;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect2708-0"
+         width="17.694019"
+         height="20.342834"
+         x="105.36372"
+         y="-36.124317" />
+    </g>
+    <g
+       id="g3470-3"
+       style="display:inline;mix-blend-mode:luminosity"
+       transform="matrix(0.87505681,0,0,0.87505681,9.6539459,53.997738)"
+       inkscape:label="LED">
+      <circle
+         style="display:inline;opacity:1;fill:url(#radialGradient2094);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.23587;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path2120-1"
+         cx="96.043251"
+         cy="226.7692"
+         r="12.36007" />
+      <circle
+         style="display:inline;opacity:1;mix-blend-mode:lighten;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.74948;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path2120-3-3"
+         cx="96.043251"
+         cy="226.7692"
+         r="7.4318156" />
+    </g>
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.175959"
+       d="m 90.430272,142.21933 c -5.047035,-0.48338 -10.156859,-2.29589 -14.546399,-5.15981 -3.678289,-2.39987 -4.508938,-3.38641 -4.508938,-5.35524 0,-3.95471 4.348283,-10.8813 11.787908,-18.77758 4.225211,-4.48452 10.110627,-9.74106 10.747122,-9.59873 1.237149,0.27669 11.129475,9.92593 14.832725,14.46824 5.85602,7.1829 8.54823,13.06412 7.18051,15.68617 -1.03969,1.99316 -7.49096,5.88878 -12.2305,7.3854 -3.906254,1.23349 -9.036421,1.75629 -13.262428,1.35155 z M 66.406974,127.59252 c -3.056582,-4.6892 -4.600871,-9.3057 -5.346457,-15.98267 -0.246199,-2.20476 -0.157983,-3.46587 0.55904,-7.99119 0.893659,-5.640176 4.105649,-12.165134 7.965139,-16.180724 1.643796,-1.71027 1.790608,-1.75194 3.794274,-1.07696 2.433217,0.81969 5.031709,2.61429 9.061588,6.25824 l 2.351252,2.12611 -1.283957,1.577338 c -5.960144,7.322106 -12.251933,17.700926 -14.623128,24.122046 -1.28907,3.49078 -1.809004,6.99487 -1.254352,8.45369 0.374467,0.98493 0.03057,0.61778 -1.223399,-1.30588 z m 53.652506,0.79755 c 0.30196,-1.47406 -0.0799,-4.18124 -0.97503,-6.91167 -1.93848,-5.91326 -8.4178,-16.9139 -14.36752,-24.393256 l -1.87296,-2.354468 2.02631,-1.86059 c 2.64577,-2.42943 4.48273,-3.88409 6.46477,-5.11944 1.56405,-0.97485 3.79914,-1.83782 4.75988,-1.83782 0.59232,0 2.67761,2.16407 4.36099,4.52576 2.60723,3.65778 4.52528,8.091818 5.49704,12.707674 0.62787,2.98246 0.68019,9.36652 0.10116,12.34163 -0.47522,2.44158 -1.47861,5.60866 -2.45747,7.7566 -0.73343,1.60942 -2.55759,4.73513 -3.35699,5.75223 -0.41098,0.5229 -0.41132,0.52176 -0.18016,-0.60665 z M 90.970658,84.796206 C 88.225448,83.40214 83.99045,81.90572 81.651013,81.50312 80.83089,81.36197 79.431839,81.28326 78.542044,81.32818 c -1.93021,0.0975 -1.843982,-0.005 1.252446,-1.46637 2.574313,-1.21624 4.721638,-1.93145 7.636672,-2.54351 3.279206,-0.68855 9.442935,-0.69664 12.669918,-0.0165 3.48542,0.73446 7.58962,2.26177 9.9023,3.68499 l 0.68735,0.42299 -1.57702,-0.0796 c -3.13383,-0.15824 -7.70097,1.10783 -12.604402,3.494096 -1.479002,0.71977 -2.7657,1.29462 -2.85933,1.27746 -0.09362,-0.0171 -1.299322,-0.60458 -2.67932,-1.30536 z"
+       id="path4148"
+       inkscape:connector-curvature="0"
+       inkscape:label="Xbox Logo" />
+  </g>
+</svg>

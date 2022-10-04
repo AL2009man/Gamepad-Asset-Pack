@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="113.513mm"
+   height="37.337101mm"
+   viewBox="0 0 113.513 37.337102"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="VSCView Arcade Stick.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="237.25"
+     inkscape:cy="90"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.942661,-107.98359)">
+    <path
+       id="path962"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:8.20785;stroke-linecap:round"
+       d="m 63.907799,107.98359 a 5.7010573,5.7010573 0 0 0 -5.701718,5.70172 5.7010573,5.7010573 0 0 0 4.864209,5.63793 v 4.72139 H 35.915025 c -1.571554,0 -2.684476,0.58098 -2.836993,1.40463 l -2.135371,17.62513 h 5.425784 v 0.8902 c 0,0.75111 0.564484,1.3561 1.26597,1.3561 h 5.266324 c 0.701486,0 1.26597,-0.60499 1.26597,-1.3561 v -0.8902 h 6.358969 74.346962 0.60456 5.50344 v 0.8902 c 0,0.75111 0.56449,1.3561 1.26597,1.3561 h 5.26632 c 0.70148,0 1.26597,-0.60499 1.26597,-1.3561 v -0.8902 h 5.67676 l -2.13537,-17.62513 c -0.15252,-0.82365 -1.26543,-1.40463 -2.83699,-1.40463 h -22.74309 v -0.19551 c 0,-0.28074 -0.21411,-0.50611 -0.47977,-0.50611 h -6.33955 c -0.26566,0 -0.47977,0.22537 -0.47977,0.50611 v 0.19551 h -3.06162 v -0.19551 c 0,-0.28074 -0.21411,-0.50611 -0.47977,-0.50611 h -6.339553 c -0.26566,0 -0.479765,0.22537 -0.479765,0.50611 v 0.19551 h -3.105994 v -0.19551 c 0,-0.28074 -0.214106,-0.50611 -0.479765,-0.50611 h -6.339557 c -0.26566,0 -0.479765,0.22537 -0.479765,0.50611 v 0.19551 h -2.884137 v -0.19551 c 0,-0.28074 -0.214106,-0.50611 -0.479765,-0.50611 h -6.339557 c -0.0083,0 -0.01673,-4.4e-4 -0.02496,0 -0.254073,0.0135 -0.454806,0.23415 -0.454806,0.50611 v 0.19551 H 64.743922 v -4.72139 a 5.7010573,5.7010573 0 0 0 4.864209,-5.63793 5.7010573,5.7010573 0 0 0 -5.700332,-5.70172 z"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView Controller Themes by AL2009man (V. 1.03a)\VSCView Controller Icons (V. 1.05)\Controller Type\White Theme\VSCView - Arcade Stick (white).png"
+       inkscape:export-xdpi="35.802067"
+       inkscape:export-ydpi="35.802067" />
+  </g>
+</svg>

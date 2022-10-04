@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="219.96974mm"
+   height="176.09721mm"
+   viewBox="0 0 219.96974 176.09721"
+   version="1.1"
+   id="svg492"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Arcade Controller Active Button presses.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview494"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.46903409"
+     inkscape:cx="586.31133"
+     inkscape:cy="430.67232"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg492" />
+  <defs
+     id="defs489" />
+  <g
+     id="g503"
+     inkscape:label="Active Button Presses"
+     style="display:inline"
+     transform="translate(250.5511,-36.067658)">
+    <g
+       id="g487"
+       transform="translate(-48.575895,109.14073)">
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:1;stroke-width:0.79954;-inkscape-stroke:none"
+         d="m -181.34027,-56.552368 c -11.36347,0 -20.63494,9.114595 -20.63494,20.367153 0,11.25256 9.27147,20.367157 20.63494,20.367157 11.3635,0 20.63649,-9.114597 20.63649,-20.367157 0,-11.252558 -9.27299,-20.367153 -20.63649,-20.367153 z"
+         id="path3753-9-0-2-3-1"
+         sodipodi:nodetypes="sssss"
+         inkscape:transform-center-x="4.9609415"
+         inkscape:transform-center-y="4.1341179" />
+      <path
+         style="color:#000000;display:inline;fill:#caf5ff;fill-opacity:1;stroke-width:0.605455;-inkscape-stroke:none"
+         d="m -181.34006,-51.608348 c -8.60507,0 -15.62593,6.902075 -15.62593,15.423134 0,8.521057 7.02086,15.423133 15.62593,15.423133 8.60503,0 15.62708,-6.902076 15.62708,-15.423133 0,-8.521059 -7.02202,-15.423131 -15.62708,-15.423134 z"
+         id="path3753-9-04-18-6-2-8"
+         sodipodi:nodetypes="sssss"
+         inkscape:label="path3753-9"
+         inkscape:transform-center-x="4.9609315"
+         inkscape:transform-center-y="4.1341164" />
+    </g>
+    <g
+       id="g3815"
+       inkscape:label="D-PAD Active Press"
+       transform="translate(28.001969,228.80187)"
+       style="display:inline">
+      <path
+         style="display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -231.73157,-61.903604 -13.55886,13.558861 v 27.581777 a 44.459654,44.288678 0 0 0 13.55886,2.12597 44.459654,44.288678 0 0 0 13.38317,-2.064475 v -27.818971 z"
+         id="path2340"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.20)\Generic\Arcade Stick\ArcadeStick_D-PAD_Down.png"
+         inkscape:export-xdpi="95.886261"
+         inkscape:export-ydpi="95.886261" />
+      <path
+         style="display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -217.97685,-75.658321 -13.61261,13.612606 13.24106,13.225552 v 0 h 28.73209 c 1.54327,-4.544342 2.3351,-9.308272 2.34456,-14.105599 -0.001,-4.312755 -0.63469,-8.602216 -1.88051,-12.732554 z"
+         id="path2338"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.20)\Generic\Arcade Stick\ArcadeStick_D-PAD_Right.png"
+         inkscape:export-xdpi="95.886261"
+         inkscape:export-ydpi="95.886261" />
+      <path
+         style="display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -274.30261,-75.658321 c -1.24845,4.12995 -1.88458,8.41942 -1.88826,12.732554 0.009,4.797298 0.80095,9.56123 2.34404,14.105599 h 28.5564 v 0 l 13.41675,-13.225547 -13.6126,-13.612606 z"
+         id="path2336"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.20)\Generic\Arcade Stick\ArcadeStick_D-PAD_Left.png"
+         inkscape:export-xdpi="95.886261"
+         inkscape:export-ydpi="95.886261" />
+      <path
+         style="display:inline;fill:#107893;fill-opacity:0.501961;stroke:#24d2f6;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m -231.73157,-107.21402 c -4.60284,0.005 -9.17696,0.72242 -13.55886,2.12597 v 29.341361 l 13.55886,13.558864 13.38317,-13.470496 v 0 -29.500009 c -4.32952,-1.36194 -8.84291,-2.0552 -13.38317,-2.05569 z"
+         id="path2334"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.20)\Generic\Arcade Stick\ArcadeStick_D-PAD_Up.png"
+         inkscape:export-xdpi="95.886261"
+         inkscape:export-ydpi="95.886261" />
+    </g>
+    <g
+       id="g31909"
+       inkscape:label="Active Button Press"
+       transform="translate(-25.456124,20.171796)"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.20)\Generic\Arcade Stick\Active Press\Arcade-Stick_Face_Button.png"
+       inkscape:export-xdpi="95.886261"
+       inkscape:export-ydpi="95.886261"
+       style="display:inline">
+      <path
+         id="path3753-9-2"
+         style="color:#000000;display:inline;fill:#24d2f6;fill-opacity:1;stroke-width:3.02188;-inkscape-stroke:none"
+         inkscape:label="path3753-9"
+         transform="matrix(0.26458333,0,0,0.26458333,-178.46505,-76.09892)"
+         d="m 577.14453,398.41211 c -42.94862,0 -77.99023,34.44915 -77.99023,76.97851 0,42.52936 35.04161,76.97852 77.99023,76.97852 42.94862,0 77.99805,-34.44916 77.99805,-76.97852 0,-42.52936 -35.04943,-76.97851 -77.99805,-76.97851 z m 0.002,18.68555 c 32.52307,10e-6 59.0625,26.08738 59.0625,58.29296 0,32.20557 -26.53943,58.29297 -59.0625,58.29297 -32.52305,0 -59.05859,-26.0874 -59.05859,-58.29297 0,-32.20558 26.53554,-58.29296 59.05859,-58.29296 z" />
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke-width:0.605455;-inkscape-stroke:none"
+         d="m -25.761781,34.258383 c -8.605058,0 -15.625911,6.902075 -15.625911,15.423135 0,8.521057 7.020853,15.423132 15.625911,15.423132 8.605061,0 15.627088,-6.902075 15.627088,-15.423132 0,-8.52106 -7.022027,-15.423132 -15.627088,-15.423135 z"
+         id="path3753-9-04-6"
+         sodipodi:nodetypes="sssss"
+         inkscape:label="path3753-9" />
+    </g>
+    <g
+       id="g8082"
+       transform="translate(1.715973,33.145663)"
+       inkscape:label="Active Button Press WASD"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.20)\Generic\Arcade Stick\Active Press\Arcade-Stick_WASD-Press.png"
+       inkscape:export-xdpi="95.886261"
+       inkscape:export-ydpi="95.886261"
+       style="display:inline">
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke-width:2.98676;stroke-linecap:round;-inkscape-stroke:none"
+         d="m -109.08492,54.950855 h 24.109155 v 25.257216 h -24.109155 z"
+         id="path1245" />
+      <path
+         style="color:#000000;display:inline;fill:#24d2f6;fill-opacity:1;stroke-linecap:round;-inkscape-stroke:none"
+         d="m -110.57813,53.457031 v 1.494141 26.75 h 27.095708 V 53.457031 Z m 2.98633,2.986328 h 21.12305 v 22.271485 h -21.12305 z"
+         id="path1247" />
+    </g>
+    <g
+       id="g31909-9"
+       inkscape:label="Active Button Press Large"
+       transform="matrix(1.2124926,0,0,1.2081152,-166.22411,-0.77643375)"
+       inkscape:export-filename="C:\Users\AL200\OneDrive\Pictures\AL2009man Work Projects\VSCView - Controller Theme Layout\VSCView - Controller Theme (Ver. 1.20)\Generic\Arcade Stick\Active Press\Arcade-Stick_Face_Button-Ergonomic.png"
+       inkscape:export-xdpi="95.886261"
+       inkscape:export-ydpi="95.886261"
+       style="display:inline">
+      <path
+         id="path3753-9-2-4"
+         style="color:#000000;display:inline;fill:#24d2f6;fill-opacity:1;stroke-width:0.800978;-inkscape-stroke:none"
+         inkscape:label="path3753-9"
+         d="m 26.305534,30.497168 c -11.3633,0 -20.634571,9.14766 -20.634571,20.440946 0,11.293286 9.271271,20.440948 20.634571,20.440948 11.3633,0 20.63664,-9.147662 20.63664,-20.440948 0,-11.293286 -9.27334,-20.440946 -20.63664,-20.440946 z m 5.29e-4,4.961778 c 8.604919,3e-6 15.626693,6.927268 15.626693,15.479168 0,8.551897 -7.021774,15.47917 -15.626693,15.47917 -8.604913,0 -15.625658,-6.927273 -15.625658,-15.47917 0,-8.5519 7.020745,-15.479168 15.625658,-15.479168 z" />
+      <path
+         style="color:#000000;display:inline;fill:#107893;fill-opacity:0.501961;stroke-width:0.606552;-inkscape-stroke:none"
+         d="m 26.306063,35.458946 c -8.605058,0 -15.625911,6.927113 -15.625911,15.479083 0,8.551968 7.020853,15.479081 15.625911,15.479081 8.605061,0 15.627088,-6.927113 15.627088,-15.479081 0,-8.55197 -7.022027,-15.47908 -15.627088,-15.479083 z"
+         id="path3753-9-04-6-0"
+         sodipodi:nodetypes="sssss"
+         inkscape:label="path3753-9" />
+    </g>
+  </g>
+</svg>

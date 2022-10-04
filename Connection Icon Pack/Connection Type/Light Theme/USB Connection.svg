@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="131.06435mm"
+   height="296.88815mm"
+   viewBox="0 0 131.06434 296.88817"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="USB Connection.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="98"
+     inkscape:cy="528"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g845" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6772" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="USB"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.165089,-18.974618)"
+     style="display:inline">
+    <path
+       id="rect4703"
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 71.428596,230.99632 v 18.79885 h 17.686777 v 59.97875 c 0,5.40078 9.672796,5.23547 9.672796,0 v -59.97875 h 19.110971 v -18.79885 z"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:label="Wire Cable"
+       inkscape:export-filename="C:\Users\AL200\Desktop\CONNECTION_WIRE_USB.png"
+       inkscape:export-xdpi="9.6898975"
+       inkscape:export-ydpi="9.6898975" />
+    <g
+       id="g849"
+       inkscape:label="Body"
+       inkscape:export-filename="C:\Users\AL200\Desktop\CONNECTION_WIRE_USB.png"
+       inkscape:export-xdpi="9.6898975"
+       inkscape:export-ydpi="9.6898975">
+      <path
+         id="rect852"
+         style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:9.11248;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 32.724033,94.040385 V 226.11801 H 154.6732 V 94.040385 Z" />
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect852-4"
+         width="131.062"
+         height="6.1739273"
+         x="28.165089"
+         y="87.860603" />
+    </g>
+    <path
+       d="m 94.867045,99.566518 -7.339532,12.709312 h 5.235665 v 64.96078 l -13.36335,-12.64858 c -0.862832,-1.07646 -1.468108,-2.48489 -1.50164,-3.93368 0,-5.86101 -0.0021,-9.34157 -0.0039,-10.62272 2.474202,-0.86842 4.260065,-3.20113 4.260065,-5.97428 0,-3.50822 -2.846809,-6.35531 -6.356305,-6.35531 -3.511021,0 -6.356817,2.84684 -6.356817,6.35531 0,2.77315 1.784849,5.10586 4.257014,5.97428 l -0.0021,10.49826 c 0,2.84527 1.561075,5.8267 3.391128,7.72434 -0.05434,-0.0517 -0.112274,-0.10563 9.35e-4,0.002 0.04524,0.0402 14.176651,13.41975 14.176651,13.41975 0.861564,1.07415 1.463029,2.48181 1.497579,3.92961 v 7.34865 c -4.854743,0.97409 -8.512319,5.26104 -8.512319,10.40351 0,5.86306 4.752563,10.6156 10.613822,10.6156 5.863039,0 10.615849,-4.75254 10.615849,-10.6156 0,-5.14346 -3.66062,-9.43043 -8.51935,-10.40452 v -7.21992 c 0,-0.0185 9.35e-4,-0.0371 0,-0.0558 v -15.96912 c 0.03685,-1.44499 0.639068,-2.85088 1.501639,-3.92402 0,0 14.130421,-13.37657 14.176131,-13.41796 0.11353,-0.1071 0.0542,-0.0539 9.4e-4,-9.3e-4 1.82979,-1.89761 3.38983,-4.88031 3.38983,-7.72612 l -0.002,-10.11723 h 4.26133 v -12.7122 H 107.5771 v 12.71258 h 4.25575 c 0,0 -0.007,2.6647 -0.007,10.24121 -0.0334,1.44908 -0.63781,2.85901 -1.50062,3.93497 l -13.366164,12.65146 v -49.07472 h 5.244054 z"
+       id="path1334"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="USB Icon"
+       inkscape:export-filename="C:\Users\AL200\Desktop\CONNECTION_WIRE_USB.png"
+       inkscape:export-xdpi="9.6898975"
+       inkscape:export-ydpi="9.6898975" />
+    <g
+       id="g845"
+       style="display:inline"
+       inkscape:label="USB Plug"
+       transform="translate(0,-5.4255714)"
+       inkscape:export-filename="C:\Users\AL200\Desktop\CONNECTION_WIRE_USB.png"
+       inkscape:export-xdpi="9.6898975"
+       inkscape:export-ydpi="9.6898975">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect1506"
+         width="91.058266"
+         height="68.839653"
+         x="48.005123"
+         y="26.208284" />
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:14.3191;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect2708"
+         width="17.694019"
+         height="20.342834"
+         x="63.075027"
+         y="40.815357" />
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:14.3191;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect2708-0"
+         width="17.694019"
+         height="20.342834"
+         x="105.36372"
+         y="40.815357" />
+    </g>
+  </g>
+</svg>

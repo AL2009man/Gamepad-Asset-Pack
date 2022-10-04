@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="113.84984mm"
+   height="73.886475mm"
+   viewBox="0 0 113.84984 73.88647"
+   version="1.1"
+   id="svg8281"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="VSCView Device UNKNOWN.svg"
+   inkscape:export-filename="D:\Videos\Captures\Tools\VSCView-0.5.0.0\icons\DEVICE_UNKNOWN.png"
+   inkscape:export-xdpi="32.0079"
+   inkscape:export-ydpi="32.0079"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8283"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="144.60333"
+     inkscape:cy="164.75588"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8278">
+    <rect
+       x="-234.41374"
+       y="52.480469"
+       width="119.52895"
+       height="109.51177"
+       id="rect14184" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
+       id="filter8444"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 1 0 "
+         result="color2"
+         id="feColorMatrix8442" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.0520569,-206.11607)">
+    <path
+       id="path12484"
+       style="color:#000000;fill:#000000;stroke-width:2;-inkscape-stroke:none"
+       d="m 53.611895,206.1161 c -7.73933,0.003 -15.459636,0.14438 -21.626586,0.4253 -3.083473,0.14046 -5.777482,0.31554 -7.902361,0.52761 -2.124881,0.21208 -3.61699,0.41982 -4.595067,0.79169 -3.665452,1.3936 -6.433585,3.87992 -8.987049,9.09918 -2.5534626,5.21927 -5.0384927,13.21872 -8.5111077,26.09505 -3.5264423,13.07593 -5.2624909,21.03464 -5.0193319,26.35395 0.1215795,2.65965 0.7726155,4.70782 2.0241659,6.25956 1.25155051,1.55175 3.0303675,2.54219 5.216219,3.31091 3.9770505,1.39866 7.7597117,1.38378 11.2788977,-0.17053 3.519186,-1.55431 6.742519,-4.57716 9.886218,-9.03717 l 5.380034,-7.63261 h 46.233868 l 5.380035,7.63261 c 3.1437,4.46001 6.367031,7.48235 9.886217,9.03665 3.519186,1.55431 7.301849,1.56971 11.278903,0.17105 2.18585,-0.76872 3.96466,-1.75916 5.21621,-3.31091 1.25155,-1.55175 1.90259,-3.59991 2.02417,-6.25956 0.24316,-5.31931 -1.49289,-13.27803 -5.01933,-26.35395 -3.47262,-12.87633 -5.957643,-20.87578 -8.51111,-26.09505 -2.553464,-5.21926 -5.321599,-7.70558 -8.987046,-9.09918 -0.978088,-0.37187 -2.470153,-0.57961 -4.595069,-0.79169 -2.124917,-0.21207 -4.818835,-0.38715 -7.902361,-0.52761 -6.167051,-0.28093 -13.887685,-0.42219 -21.627102,-0.4253 -0.174265,-7e-5 -0.520898,0 -0.520898,0 z" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.3175374,0,0,1.3175374,348.23435,135.89007)"
+       id="text14182"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;shape-inside:url(#rect14184);fill:#ffffff;fill-opacity:1;stroke-width:0.200817"><tspan
+         x="-234.41406"
+         y="88.510646"
+         id="tspan849">?</tspan></text>
+  </g>
+</svg>
