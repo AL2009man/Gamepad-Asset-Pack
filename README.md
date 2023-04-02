@@ -11,25 +11,25 @@ Guidelines: [Placeholder]
 
 Controller Overlays: 
 
-Arcade Controller
-DualShock 4 Controller
-DualSense Controller
-Nintendo Switch Controllers
-Steam Controller
-Steam Deck
-Xbox One  Controller
-Xbox Series X|S Controller
-Xbox 360 Controller
+* Arcade Controller
+* DualShock 4 Controller
+* DualSense Controller
+* Nintendo Switch Controllers
+* Steam Controller
+* Steam Deck
+* Xbox One  Controller
+* Xbox Series X|S Controller
+* Xbox 360 Controller
 
 Controller Icons:
 
-Arcade Controller
-DualShock 3 Controller
-DualShock 4 Controller
-DualSense Controller
-Nintendo Switch Controllers
-Steam Controller
-Steam Deck
-Xbox One  Controller
-Xbox Series X|S Controller
-Xbox 360 Controller
+* Arcade Controller
+* DualShock 3 Controller
+* DualShock 4 Controller
+* DualSense Controller
+* Nintendo Switch Controllers
+* Steam Controller
+* Steam Deck
+* Xbox One  Controller
+* Xbox Series X|S Controller
+* Xbox 360 Controller
