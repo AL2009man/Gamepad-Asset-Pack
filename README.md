@@ -1,4 +1,4 @@
-# AL2009man-VSCView-Asset-Pack
+# Gamepad Overlay Asset Pack by AL2009man
 
 This is a collections of images assets originally created for VSCView over the years, now expanded for general uses such as custom controller overlay, modding, etc. This also includes WIP or unfinished assets.
 
