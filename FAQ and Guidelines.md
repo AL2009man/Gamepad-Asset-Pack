@@ -25,7 +25,7 @@ For Image Editing: I recommend Inkscape for the best experience.
 
 
 
-#Guideline
+# Guideline
 
 ## Question 1: Can I use this Asset Pack for my personal or community-driven projects? (i.e Gamepad overlay, custom image, mods, reverse engineered project, fan project)
 
