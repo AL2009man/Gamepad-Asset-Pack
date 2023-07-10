@@ -16,9 +16,11 @@ This includes WIP, Unreleased and Unfinished images.
 
 ### Question 3: Which Image Editor, File Format and Fonts was used for this asset pack?
 
-This asset pack was created using Inkscape and GIMP. 
+This asset pack was created using [Inkscape](https://inkscape.org/) and [GIMP](https://www.gimp.org/). 
 
-All images are .svg and .png formats. I don't exactly remember the Fonts that was used (for some SVGs) for this pack, but you might need to download the equivalent font elsewhere on the Internet if asked.
+All images formats are Inkscape SVG, PNGs and XCF.
+
+[Open Sans](https://fonts.google.com/specimen/Open+Sans) font family used for certain themes (such as the Compact theme for Steam Controller, Steam Deck and Arcade Controller)
 
 For Image Editing: I recommend Inkscape for the best experience.
 
