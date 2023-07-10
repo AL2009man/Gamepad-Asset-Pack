@@ -5,7 +5,7 @@ This is a collections of images assets originally created for [VSCView](https://
 
 Read the [FAQ & Guidelines](https://github.com/AL2009man/Gamepad-Overlay-Asset-Pack/blob/main/FAQ%20and%20Guidelines.md)
 
-Download: Coming soon. (In the meantime: I suggest Downloading the Zip or clone the repository)
+Download: Coming soon. (In the meantime: I suggest Downloading the Zip or Clone the repository)
 
 ---
 
