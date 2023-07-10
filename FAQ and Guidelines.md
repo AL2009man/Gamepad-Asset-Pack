@@ -2,14 +2,14 @@
 
 ### Question 1: What's the purpose of this Asset Pack?
 
-A: As stated in the README.md, this pack is meant for those who would like to get access to all the Controller-related assets. Inspired by https://github.com/FliiFe/schud, I've decided to release the entire asset pack for those who would like to use it.
+A: As stated in the README.md, this pack is meant for those who would like to get access to all the Controller-related assets. Inspired by [SCHUD](https://github.com/FliiFe/schud), I've decided to release the entire asset pack for those who would like to use it.
 
 While all of the images were specifically repurposed for Controller Overlays, I believe it can be used for various things. like a custom skin for VSCView, for a Community Modding Project, an website or maybe part of a mod of a existing video game! For more info; please refer to Guidelines section.
 
 
 ### Question 2: What does pack this include?
 
-A: Simply put: it includes the complete Controller Overlays created for VSCView (after V. 0.5.0.0 release), the Icons, the Images and even leftovers that haven't been deleted yet. 
+A: Simply put: it includes the complete Controller Overlays created for VSCView (after [Version 0.5.0.0 release](https://github.com/Nielk1/VSCView/releases/tag/v0.5.0.0)), the Icons, the Images and even leftovers that haven't been deleted yet. 
 
 This includes WIP, Unreleased and Unfinished images.
 
