@@ -1,8 +1,8 @@
-# Gamepad Overlay Asset Pack by AL2009man
+# Gamepad Asset Pack by AL2009man
 
 ![gamepadassetpack overview 1](https://github.com/AL2009man/Gamepad-Overlay-Asset-Pack/assets/67606569/cd14c7d4-f98f-49a6-84ca-f07c9cbe2aa4)
 
-This is a collections of images assets originally created for [VSCView](https://github.com/Nielk1/VSCView/), now expanded for general uses such as custom controller overlay, modding, etc. This also includes WIP or unfinished assets.
+This is a collection of image assets originally created for [VSCView](https://github.com/Nielk1/VSCView/), now expanded for general uses such as custom controller overlay, modding, etc. This also includes WIP or unfinished assets.
 
 Download: Coming soon. (In the meantime: I suggest Downloading the Zip or Clone the repository)
 
