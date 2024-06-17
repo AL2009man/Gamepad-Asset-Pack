@@ -67,7 +67,7 @@ This asset pack was created using [Inkscape](https://inkscape.org/) and [GIMP](h
 
 All images formats are Inkscape SVG, PNGs and XCF. For Image Editing: I recommend Inkscape for the best experience.
 
-[Open Sans](https://fonts.google.com/specimen/Open+Sans) font family used for certain themes (such as the Compact theme for Steam Controller, Steam Deck and Arcade Controller)
+[Open Sans](https://fonts.google.com/specimen/Open+Sans) font family (by Steve Matteson) used for certain themes (such as the Compact theme for Steam Controller, Steam Deck and Arcade Controller)
 
 The PlayStation 20th Anniversary Touchpad Symbols was [created by GT Planet forums user Maninashed](https://www.gtplanet.net/forum/threads/gt-sport-svg-request-thread-please-read-1st-post.367463/page-89#post-12340218).
 
