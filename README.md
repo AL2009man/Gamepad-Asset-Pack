@@ -5,7 +5,7 @@
 
 This is a collection of image assets originally created for [VSCView](https://github.com/Nielk1/VSCView/), now expanded for general uses such as custom controller overlay and button prompts, modding, etc. This also includes WIP or unfinished assets.
 
-Download: [CLICK ME](https://github.com/AL2009man/Gamepad-Asset-Pack/releases/tag/Public)
+Download: [CLICK ME](https://github.com/AL2009man/Gamepad-Asset-Pack/releases/latest/download/Gamepad.Asset.Pack.zip)
 
 ---
 
